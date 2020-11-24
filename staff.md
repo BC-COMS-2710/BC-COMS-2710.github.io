@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Staff - BC COMS 1016 
+title: Staff - BC COMS 2XXX 
 active_tab: staff
 ---
 

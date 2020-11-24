@@ -60,15 +60,17 @@ Discussion Forum
 
 Time and place
 : Summer A May 3rd - June 18th
-: Time and Day TBD:
-Location: Check courseworks for Zoom link
+: Time and Day: TBD
+: Location: Check courseworks for Zoom link
 
 
 Office Hours
 : <a href="office-hours.html">Times</a>
 
 Prerequisites
-: None - no prior programming or college-math background is required
+: A prior programming course (e.g. [BC1016](http://coms1016.barnard.edu/), BC3050, W1004, E1006, W1002)
+: Instructor approval required.
+: <i>Recommended</i>: [COMS2251 - Computational Linear Algebra](https://tonydear.github.io/teaching/coms3251), Calculus I
 
 Modes of Thinking Requirement
 : Thinking Quantitatively and Empirically
@@ -81,12 +83,9 @@ Course Readings
 Grading
 : This is a project-based course. 
 The majority of your grade will be based on assignments.
-* Assignments (Homeworks, mini-projects, Final project) - 70%
-* Exams and Quizes (Midterm, Daily Quizes) - 25%
-* Participation - 10%
 * Final Project - 50%
-* Homeworks - 30%
-* Daily Quizzes - 10%
+* Homeworks - 40%
+* Participation - 10%
 
 <!--- 
 * Homeworks (20%)
@@ -108,7 +107,7 @@ This is a project-based course.  Instead of exams, you will do a series of hands
 -->
 
 Late day policy
-: To account for issues that arise in these uncertain times, each student has 10 late days for the homeworks and projects.
+: To account for issues that arise in these uncertain times, each student has ?? late days for the homeworks and projects.
 <br>
 See the [Policies](http://localhost:4000/policies.html#late-days) for more details.
 <!--

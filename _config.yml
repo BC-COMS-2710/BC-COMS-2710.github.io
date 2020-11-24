@@ -1,0 +1,7 @@
+exclude: ['README.md']
+timezone: US/Eastern
+markdown: kramdown
+highlighter: rouge
+
+# Google services
+google_analytics: UA—54611010-4

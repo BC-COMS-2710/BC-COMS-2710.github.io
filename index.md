@@ -132,7 +132,9 @@ a Science) at Duke
   - [Text as Data](https://github.com/justingrimmer/tad_19/blob/master/mac19.pdf) by Justin Grimmer (Political Science) a
 t Stanford
   - [Text as Data](https://www.dropbox.com/s/wmqycp11757cekv/TAD_syllabus.pdf?dl=0) by Tamar Mitts (Political Science) at
- Columbia SIPA  
+ Columbia SIPA
+- Classes that do not require statistical and programming knowledge:
+  - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell
 - Classes that focus on Social Media:  
 	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Allan Ritter (Computer Science) at Georgia In
 stitute of Technology

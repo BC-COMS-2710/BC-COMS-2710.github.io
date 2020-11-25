@@ -1,0 +1,90 @@
+-
+  name: "Week 1 (05/03) - Python, NLP Intro, Spacy"
+  lectures:
+    -
+      date: 2021-05-03
+      title: Lecture 1 <br> Course Overview
+    -
+      date: 2021-05-04
+      title: Lecture 2 <br> Unix, Bash, and Python
+    -
+      date: 2021-05-05
+      title: Lecture 3 <br> Natural Language Processing
+    -
+      date: 2021-05-06
+      title: Lecture 4 <br> Spacy
+-
+  name: "Week 2 (05/10) - NLP continued, Data Aggregation/Collection"
+  lectures:
+    -
+      date: 2021-05-10 
+      title: Lecture 5 <br> Classification <br> Sentiment
+    -
+      date: 2021-05-11
+      title: Lecture 6 <br> Named Entity Recognition
+    -
+      date: 2021-05-12
+      title: Lecture 7 <br> Topic Modeling
+      readings:
+        - 
+          url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
+          title: Topic Modeling demo (David Mimno)
+    -
+      date: 2021-05-13
+      title: Lecture 8 <br> Twitter API
+-
+  name: "Week 3 (05/17) - Hypothesis Testing"
+  lectures:
+    -
+      date: 2021-05-17
+      title: No class (or TA covers)
+    -
+      date: 2021-05-18
+      title: No class (or TA covers)
+    -
+      date: 2021-05-19
+      title: Lecture 11 <br> Hypothesis Testing
+    -
+      date: 2021-05-20
+      title: Lecture 12 <br> Hypothesis Testing
+-
+  name: "Week 4 (05/24) - "
+  lectures:
+    -
+      date: 2021-05-24
+      title: Lecture 9
+    -
+      date: 2021-05-25
+      title: Lecture 10
+    -
+      date: 2021-05-26
+      title: Lecture 11
+    -
+      date: 2021-05-27
+      title: Lecture 12
+    -
+      date: 2021-05-28
+      title:
+      assignment: 
+        - 
+          title: "Project Proposal due"
+-
+  name: "Week 5 (05/31) - "
+  lectures:
+    -
+      date: 2021-05-31
+      title: Memorial Day
+    -
+      date: 2021-06-01
+      title: Lecture 10
+    -
+      date: 2021-06-02
+      title: Lecture 11
+    -
+      date: 2021-06-03
+      title: Lecture 12
+    -
+-
+  lectures:
+    -
+  name: "Week 6 (05/07) - Projects"

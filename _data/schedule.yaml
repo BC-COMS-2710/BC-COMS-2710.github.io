@@ -1,18 +1,34 @@
 -
-  name: "Week 1 (05/03) - Python, NLP Intro, Spacy"
+  name: "Week 1 (05/03) - Python, NLP Intro, SpaCy"
   lectures:
     -
       date: 2021-05-03
       title: Lecture 1 <br> Course Overview
+      assignments:
+        -
+          deadline: 2021-05-04
+          title: HW00 - Course Infrastructure
     -
       date: 2021-05-04
       title: Lecture 2 <br> Unix, Bash, and Python
+      assignments:
+        -
+          deadline: 2021-05-05
+          title: HW01 - Unix, Bash, and Python tutorial
     -
       date: 2021-05-05
-      title: Lecture 3 <br> Natural Language Processing
+      title: Lecture 3 <br> Tokenization
+      assignments:
+        -
+          deadline: 2021-05-05
+          title: HW02 - Tokenization
     -
       date: 2021-05-06
-      title: Lecture 4 <br> Spacy
+      title: Lecture 4 <br> Documents, Sentences, and Phrases <br> spaCy
+      assignments:
+        -
+          deadline: 2021-05-05
+          title: HW03 - spaCy primer
 -
   name: "Week 2 (05/10) - NLP continued, Data Aggregation/Collection"
   lectures:

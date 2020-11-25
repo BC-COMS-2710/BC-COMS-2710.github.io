@@ -87,6 +87,16 @@ The majority of your grade will be based on assignments.
 * Homeworks - 40%
 * Participation - 10%
 
+Assignments
+: During the first 3 weeks of the course, students will complete daily assignments and week long assignments. These assignments will help students master the material while preparing them for their final projects
+
+- The daily assignments will be based on the day's lecture and then due at midnight.
+- The week long assignments will cover the previous week's material and will be due at midnight on Sunday night. 
+
+Final Project
+: During the last two weeks of the course, students will primarily work on final projects. In the final projects, students will be required to collect and analyze a text corpus to answer a research question of their choosing. For the final project, students will be encouraged to develop and test their own research question but will have the option of
+reproducing results from a list of approved recent research papers instead.
+
 <!--- 
 * Homeworks (20%)
 * Projects (25%)
@@ -127,14 +137,13 @@ As social science and humanities research heavily incorporates textual data, num
 Here I will try to keep a running list of related courses.
 
 - Classes that require prior statistical and programmings knowledge:
-  - [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html) by Chris Bail (Sociology, Public Policy, and Dat
-a Science) at Duke
-  - [Text as Data](https://github.com/justingrimmer/tad_19/blob/master/mac19.pdf) by Justin Grimmer (Political Science) a
-t Stanford
+  - [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html) by Chris Bail (Sociology, Public Policy and Data Science) at Duke
+  - [Text as Data](https://github.com/justingrimmer/tad_19/blob/master/mac19.pdf) by Justin Grimmer (Political Science) at Stanford
   - [Text as Data](https://www.dropbox.com/s/wmqycp11757cekv/TAD_syllabus.pdf?dl=0) by Tamar Mitts (Political Science) at
  Columbia SIPA
 - Classes that do not require statistical and programming knowledge:
   - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell
+  - [WORKING WITH TEXT IN PYTHON](https://applied-language-technology.readthedocs.io/en/latest/index.html) by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) (Department of Languages) at University of Helsinki. 
 - Classes that focus on Social Media:  
 	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Allan Ritter (Computer Science) at Georgia In
 stitute of Technology

@@ -88,7 +88,7 @@ The majority of your grade will be based on assignments.
 * Participation - 10%
 
 Assignments
-: During the first 3 weeks of the course, students will complete daily assignments and week long assignments. These assignments will help students master the material while preparing them for their final projects
+: During the first 4 weeks of the course, students will complete a mix of daily assignments and week long assignments. These assignments will help students master the material while preparing them for their final projects
 
 - The daily assignments will be based on the day's lecture and then due at midnight.
 - The week long assignments will cover the previous week's material and will be due at midnight on Sunday night. 

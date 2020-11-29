@@ -16,6 +16,9 @@ I highly recommend going through these papers:
   - [Narrative paths and negotiation of power in birth stories](https://dl.acm.org/doi/pdf/10.1145/3359190)
 Antoniak, Maria, David Mimno, and Karen Levy. Proceedings of the ACM on Human-Computer Interaction 3.CSCW (2019): 1-27.
   - [Quantifying Community Characteristics of Maternal Mortality Using Social Media](https://dl.acm.org/doi/pdf/10.1145/3366423.3380066) Abebe, Rediet, Salvatore Giorgi, Anna Tedijanto, Anneke Buffone, and H. Andrew Andrew Schwartz. Proceedings of The Web Conference 2020. 2020.
+- Mental Health
+  - [Quantifying the Effects of COVID-19 on Mental Health Support Forums](https://www.aclweb.org/anthology/2020.nlpcovid19-2.8.pdf). Biester, Laura, Katie Matton, Janarthanan Rajendran, Emily Mower Provost, and Rada Mihalcea. Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020.
+  - [Discovering Shifts to Suicidal Ideation from Mental Health Content in Social Media](https://dl.acm.org/doi/pdf/10.1145/2858036.2858207). De Choudhury, Munmun, Emre Kiciman, Mark Dredze, Glen Coppersmith, and Mrinal Kumar. In Proceedings of the 2016 CHI conference on human factors in computing systems, pp. 2098-2110. 2016.
 - Political Science
   - [Elites and foreign actors among the alt-right: The Gab social media platform](https://firstmonday.org/ojs/index.php/fm/article/view/10062/8072). Zhou, Yuchen, Mark Dredze, David A. Broniatowski, and William D. Adler. First Monday (2019).
   - [Terrorism as a Stage for Far-Right Mobilization](https://www.dropbox.com/s/2h9dsrd3gv5jk34/FRTR.pdf?dl=0). Mitts, Tamar. <i>Under Review</i> 2020.

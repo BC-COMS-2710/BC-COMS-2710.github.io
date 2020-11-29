@@ -145,7 +145,7 @@ Here I will try to keep a running list of related courses.
   - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell
   - [WORKING WITH TEXT IN PYTHON](https://applied-language-technology.readthedocs.io/en/latest/index.html) by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) (Department of Languages) at University of Helsinki. 
 - Classes that focus on Social Media:  
-	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Allan Ritter (Computer Science) at Georgia In
+	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Alan Ritter (Computer Science) at Georgia In
 stitute of Technology
 - Misc:
 	- [Quantitative Research Methods (INST 808), Deep Learning for Information Scientists](http://users.umiacs.umd.edu/~jbg/teaching/INST_808/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg) at UMD

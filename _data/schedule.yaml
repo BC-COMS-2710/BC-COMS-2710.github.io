@@ -24,12 +24,15 @@
           title: HW02 - Tokenization
     -
       date: 2021-05-06
-      title: Lecture 4 <br> Linguistic Inquiry and Word Count (LWIC)
+      title: Lecture 4 <br> Linguistic Inquiry and Word Count (LIWC)
       assignments:
         -
           deadline: 2021-05-05
           title: HW03 - LWIC
-
+      readings:
+        -
+          title: The Psychological Meaning of Words - LIWC and Computerized Text Analysis Methods
+          url: https://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf
 -
   name: "Week 2 (05/10) - Natural Language Processing with SpaCy"
   lectures:
@@ -46,13 +49,13 @@
     -
       date: 2021-05-12
       title: Lecture 7 <br> Named Entity Recognition
+    -
+      date: 2021-05-13
+      title: Lecture 8 <br> Topic Modeling
       readings:
         - 
           url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
           title: Topic Modeling demo (David Mimno)
-    -
-      date: 2021-05-13
-      title: Lecture 8 <br> Topic Modeling
 -
   name: "Week 3 (05/17) - Data Collection"
   lectures:
@@ -69,7 +72,7 @@
       date: 2021-05-20
       title: Lecture 12 <br> Hypothesis Testing
 -
-  name: "Week 4 (05/24) - "Hypothesis Testing"
+  name: "Week 4 (05/24) - Hypothesis Testing"
   lectures:
     -
       date: 2021-05-24

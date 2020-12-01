@@ -1,5 +1,5 @@
 -
-  name: "Week 1 (05/03) - Python, NLP Intro, SpaCy"
+  name: "Week 1 (05/03) - Working with Text in Python (and a little Bash)"
   lectures:
     -
       date: 2021-05-03
@@ -24,36 +24,41 @@
           title: HW02 - Tokenization
     -
       date: 2021-05-06
-      title: Lecture 4 <br> Documents, Sentences, and Phrases <br> spaCy
+      title: Lecture 4 <br> Linguistic Inquiry and Word Count (LWIC)
       assignments:
         -
           deadline: 2021-05-05
-          title: HW03 - spaCy primer
+          title: HW03 - LWIC
+
 -
-  name: "Week 2 (05/10) - NLP continued, Data Aggregation/Collection"
+  name: "Week 2 (05/10) - Natural Language Processing with SpaCy"
   lectures:
     -
       date: 2021-05-10 
-      title: Lecture 5 <br> Classification <br> Sentiment
+      title: Lecture 5 <br> Documents, Sentences, and Phrases <br> spaCy
+      assignments:
+        -
+          deadline: 2021-05-11
+          title: HW03 - spaCy primer
     -
       date: 2021-05-11
-      title: Lecture 6 <br> Named Entity Recognition
+      title: Lecture 6 <br> Classification <br> Sentiment
     -
       date: 2021-05-12
-      title: Lecture 7 <br> Topic Modeling
+      title: Lecture 7 <br> Named Entity Recognition
       readings:
         - 
           url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
           title: Topic Modeling demo (David Mimno)
     -
       date: 2021-05-13
-      title: Lecture 8 <br> Twitter API
+      title: Lecture 8 <br> Topic Modeling
 -
-  name: "Week 3 (05/17) - Hypothesis Testing"
+  name: "Week 3 (05/17) - Data Collection"
   lectures:
     -
       date: 2021-05-17
-      title: No class (or TA covers)
+      title: Lecture 11 <br> Twitter API (TA covers)
     -
       date: 2021-05-18
       title: No class (or TA covers)
@@ -64,7 +69,7 @@
       date: 2021-05-20
       title: Lecture 12 <br> Hypothesis Testing
 -
-  name: "Week 4 (05/24) - "
+  name: "Week 4 (05/24) - "Hypothesis Testing"
   lectures:
     -
       date: 2021-05-24

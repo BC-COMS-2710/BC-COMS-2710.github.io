@@ -7,7 +7,9 @@ caption: <!--An engraving of the Mechanical Turk, the 18th century chess-playing
 active_tab: main_page 
 ---
 
-Computational Text Analysis is the method of using computational tools to analyse and discover insights from large amounts of text. This research based course will introduce students to the methods and tools used in computational text analysis, aka <i>text as data</i>.
+Computational Text Analysis is the method of using computational tools to analyse and discover insights from large amounts of text. This research based course will introduce students to  methods and tools used in computational text analysis, aka <i>text as data</i>.
+The course will focus on a [*subset of computational methods that derive from statistical modeling and computational linguistics that are most commonly applied to analyze texts at scale*](https://arcade.stanford.edu/blogs/distant-reading-after-moretti).
+
 Students will learn how to use quantitative methods to <i>discover</i>, <i>measure</i>, and infer concepts and phenomena from large amounts of text. 
 The course will involve hands-on analysis of real-world textual datasets from social media (Twitter and Reddit), newswire (Wall Street Journal or NYTimes), and other corpora. This class is ideal for students who are interested in learning how to aggregate large amount of text and apply statistical methods to <i>discover</i>, <i>measure</i>, and <i>infer</i> phenomena from text.
 Some prior programming experience is expected, though all necessary skills, including an overview of Unix and Python, will be covered in the beginning of the course.

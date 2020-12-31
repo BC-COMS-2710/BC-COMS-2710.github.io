@@ -76,7 +76,8 @@ Modes of Thinking Requirement
 : Thinking Quantitatively and Empirically
 : Thinking Technologically and Digitally
 
-Course Readings
+Textbook & Course Readings
+: During the first four weeks, we will use the recently released [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3) book. A copy has been put on course reserves at the Barnard Library. 
 : Each lecture has an accompanying reading that will be posted to the schedule
 : Some lectures will have accompanying optional reading related to the lecture's topic
 

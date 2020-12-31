@@ -12,6 +12,11 @@ There are many great examples of recent research papers that use the methods
 covered in this class. Unfortunately we will not have time to cover all of these papers.
 I highly recommend going through these papers:
 
+- Text as Data Overview
+  - [How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf) Dong Nguyen, Maria Liakata, Simon DeDeo, Jacob Eisenstein, David Mimno, Rebekah Tromble, and Jane Winters. Frontiers in Artificial Intelligence 3 (2020): 62.
+  - [Text preprocessing for unsupervised learning: Why it matters, when it misleads, and what to do about it](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849145). Matthew J. Denny and Arthur Spirling. Political Analysis, 26(2):168–189, 2018. 
+  - [Adapting computational text analysis to social science (and vice versa)](https://journals.sagepub.com/doi/10.1177/2053951715602908). Paul DiMaggio. Big Data & Society, 2015.
+  - [Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://web.stanford.edu/~jgrimmer/tad2.pdf). Justin Grimmer and Brandon M. Stewart. Political Analysis, 21(3):267–297, 2013.
 - Health
   - [Narrative paths and negotiation of power in birth stories](https://dl.acm.org/doi/pdf/10.1145/3359190)
 Antoniak, Maria, David Mimno, and Karen Levy. Proceedings of the ACM on Human-Computer Interaction 3.CSCW (2019): 1-27.

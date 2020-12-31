@@ -1,5 +1,5 @@
 -
-  name: "Week 1 (05/03) - Working with Text in Python (and a little Bash)"
+  name: "Week 1 (05/03) - Working with Text (Words) in Python"
   lectures:
     -
       date: 2021-05-03
@@ -7,21 +7,30 @@
       assignments:
         -
           deadline: 2021-05-04
-          title: HW00 - Course Infrastructure
+          title: HW01 - Getting Started & Word Counts
     -
       date: 2021-05-04
-      title: Lecture 2 <br> Unix, Bash, and Python
+      title: Lecture 2 <br> Operationalizing <!--Unix, Bash, and Python-->
       assignments:
         -
           deadline: 2021-05-05
           title: HW01 - Unix, Bash, and Python tutorial
+      readings:
+        -
+          url: readings/LiteraryLabPamphlet6.pdf
+          title: Operationalizing
+          authors: Moretti
     -
       date: 2021-05-05
-      title: Lecture 3 <br> Tokenization
+      title: Lecture 3 <br> Stylometry, Strings & Regex
       assignments:
         -
           deadline: 2021-05-05
-          title: HW02 - Tokenization
+          title: HW02
+      readings:
+        -
+          title: "Chapter 3 Regular Expressions"
+          authors: Hovy (Textbook) 
     -
       date: 2021-05-06
       title: Lecture 4 <br> Linguistic Inquiry and Word Count (LIWC)
@@ -33,8 +42,9 @@
         -
           title: The Psychological Meaning of Words - LIWC and Computerized Text Analysis Methods
           url: https://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf
+          authors: Tausczik & Pennebaker
 -
-  name: "Week 2 (05/10) - Natural Language Processing with SpaCy"
+  name: "Week 2 (05/10) - Beyond Words - Natural Language Processing with SpaCy"
   lectures:
     -
       date: 2021-05-10 

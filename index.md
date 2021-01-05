@@ -145,8 +145,9 @@ Here I will try to keep a running list of related courses.
   - [Text as Data](https://www.dropbox.com/s/wmqycp11757cekv/TAD_syllabus.pdf?dl=0) by Tamar Mitts (Political Science) at
  Columbia SIPA
 - Classes that do not require statistical and programming knowledge:
-  - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell
-  - [WORKING WITH TEXT IN PYTHON](https://applied-language-technology.readthedocs.io/en/latest/index.html) by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) (Department of Languages) at University of Helsinki. 
+  - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell.
+  - [WORKING WITH TEXT IN PYTHON](https://applied-language-technology.readthedocs.io/en/latest/index.html) by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) (Department of Languages) at University of Helsinki.
+  - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) by [Melanie Walsh](https://melaniewalsh.org/) (Information Science) at Cornell.
 - Classes that focus on Social Media:  
 	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Alan Ritter (Computer Science) at Georgia In
 stitute of Technology

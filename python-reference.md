@@ -8,3 +8,6 @@ active_tab: Python Reference
 
 # Python Reference
 
+### File I/O
+
+### Collections

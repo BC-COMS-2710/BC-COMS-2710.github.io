@@ -19,7 +19,7 @@ The lecture schedule will be updated as the term progresses.
 
 ### Week 0 - Pre-course
 
-Make sure to fill out the pre-course survey that is available on Slack.
+Make sure to fill out the pre-course survey that is available on Piazza.
 
 Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub]()
 and [Piazza]().

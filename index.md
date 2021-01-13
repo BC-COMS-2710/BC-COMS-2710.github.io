@@ -55,7 +55,7 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [TODO]()
+: [https://coms2710.barnard.edu/](https://coms2710.barnard.edu/)
 
 Discussion Forum
 : [Piazza]() *Requires signing up via a barnard.edu or columbia.edu email*
@@ -72,16 +72,17 @@ Office Hours
 Prerequisites
 : A prior programming course (e.g. [BC1016](http://coms1016.barnard.edu/), BC3050, W1004, E1006, W1002)
 : Instructor approval required.
-: <i>Recommended</i>: [COMS2251 - Computational Linear Algebra](https://tonydear.github.io/teaching/coms3251), Calculus I
 
 Modes of Thinking Requirement
 : Thinking Quantitatively and Empirically
 : Thinking Technologically and Digitally
 
 Textbook & Course Readings
-: During the first four weeks, we will use the recently released [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3) book. A copy has been put on course reserves at the Barnard Library. 
-: Each lecture has an accompanying reading that will be posted to the schedule
-: Some lectures will have accompanying optional reading related to the lecture's topic
+: Each lecture has an accompanying reading that will be posted to the schedule. Some lectures will have accompanying optional reading related to the lecture's topic.
+: We will be using primarily three textbooks for this course:
+1. [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3). A copy has been put on course reserves at the Barnard Library. 
+1. Jurafsky and Martin, Speech and Language Processing (3rd ed. draft) [(online copy)](https://web.stanford.edu/~jurafsky/slp3/)
+2. [Computational Text Analysis Textbook](https://bc-coms-2710.github.io/textbook/welcome.html) is an online textbook. It is a modified version of the textbook Melanie Walsh at Cornell developed for her [Intro to Culturual Analytics course](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
 
 Grading
 : This is a project-based course. 

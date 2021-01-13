@@ -1,5 +1,5 @@
 -
-  name: "Week 1 (05/03) - Working with Text (Words) in Python"
+  name: "Week 1 (05/03) - Working with Text in Python and Bash"
   lectures:
     -
       date: 2021-05-03
@@ -7,37 +7,68 @@
       assignments:
         -
           deadline: 2021-05-04
-          title: HW01 - Getting Started & Word Counts
+          title: HW00 - Course Setup
+      readings:
+        -
+          url: https://arxiv.org/pdf/1907.01468.pdf
+          title: "How we do things with words: Analyzing text associal and cultural data"
+          authors: Nguyen D, Liakata M, DeDeo S, Eisenstein J, Mimno D, Tromble R, Winters J
     -
       date: 2021-05-04
-      title: Lecture 2 <br> Operationalizing <!--Unix, Bash, and Python-->
+      title: Lecture 2 <br> Unix, Bash, the Command Line, and git
       assignments:
         -
           deadline: 2021-05-05
-          title: HW01 - Unix, Bash, and Python tutorial
+          title: "HW01 - Unix, Bash, and Cunix tutorial" 
       readings:
-        -
-          url: readings/LiteraryLabPamphlet6.pdf
-          title: Operationalizing
-          authors: Moretti
+        - 
+          url: https://bc-coms-2710.github.io/textbook/Command-Line/The-Command-Line.html
+          title: "Chapter 1: The Command Line"
+          authors: Online Textbook
     -
       date: 2021-05-05
-      title: Lecture 3 <br> Stylometry, Strings & Regex
+      title: "Lecture 3 <br> Python Review & Regex"
       assignments:
         -
           deadline: 2021-05-05
-          title: HW02
+          title: HW02 - Word Counts in Python
       readings:
+        - 
+          url: http://coms2710.barnard.edu/textbook/Python/Python.html
+          title: "Chapter 2: Python Basics"
+          authors: Online Textbook
         -
           title: "Chapter 3 Regular Expressions"
           authors: Hovy (Textbook) 
     -
       date: 2021-05-06
-      title: Lecture 4 <br> Linguistic Inquiry and Word Count (LIWC)
+      title: "Lecture 4 <br> Pandas: Tables and Visualizations in Python"
       assignments:
         -
           deadline: 2021-05-05
-          title: HW03 - LWIC
+          title: HW03 - Data Analysis in Python
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Data-Analysis/Data-Analysis.html
+          title: "Chapter 3 - Data Analysis"
+          authors: Online Textbook
+-
+  name: "Week 2 (05/10) - Words, Words, Words: the base unit of analysis"
+  lectures:
+    -
+      date: 2021-05-10
+      title: Lecture 5 <br> What is a word?  
+      readings:
+        -
+          title: "Chapter 2: What’s in a Word?"
+          authors: Hovy (Textbook)
+      assignments:
+        -
+          deadline: 2021-05-10
+          title: HW04 
+    -
+      date: 2021-05-11
+      title: Lecture 6 <br> Linguistic Inquiry and Word Count (LIWC)
       readings:
         -
           title: The Psychological Meaning of Words - LIWC and Computerized Text Analysis Methods
@@ -47,82 +78,167 @@
           title: What can software tell us about political candidates? A critical analysis of a computerized method for political discourse
           url: readings/Kangas2014Politics.pdf
           authors: Kangas
--
-  name: "Week 2 (05/10) - Beyond Words - Natural Language Processing with SpaCy"
-  lectures:
-    -
-      date: 2021-05-10 
-      title: Lecture 5 <br> Documents, Sentences, and Phrases <br> spaCy
-      assignments:
-        -
-          deadline: 2021-05-11
-          title: HW03 - spaCy primer
-    -
-      date: 2021-05-11
-      title: Lecture 6 <br> Classification <br> Sentiment
     -
       date: 2021-05-12
-      title: Lecture 7 <br> Named Entity Recognition
+      title: Lecture 7 <br> Pointwise-Mutual Information <br> Term Frequency Inverse Document Frequency
+      readings:
+        -
+          title: "Chapter 4: Pointwise Mutual Information; Chapter 5.1: Enter the Matrix; Chapter 5.2: Discrete Representations "
+          authors: Hovy (Textbook)
+        - 
+          url: http://coms2710.barnard.edu/textbook/Text-Analysis/TF-IDF.html
+          title: TF-IDF
+          authors: Online Textbook    
     -
-      date: 2021-05-13
-      title: Lecture 8 <br> Topic Modeling
+      date: 2021-05-11 
+      title: Lecture 8 <br> Operationalizing and Stylometry
+      readings:
+      assignments:
+        -
+          deadline: 2021-05-12
+          title: HW07
+      readings:
+        -
+          url: readings/LiteraryLabPamphlet6.pdf
+          title: Operationalizing
+          authors: Moretti
+-
+  name: "Week 3 (05/17) - Machine Learning: Classification"
+  lectures:
+    -
+      date: 2021-05-17
+      title: Lecture 9 <br> Topic Modeling
       readings:
         - 
           url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
           title: Topic Modeling demo (David Mimno)
--
-  name: "Week 3 (05/17) - Data Collection"
-  lectures:
+        -
+          title: "Chapter 9: Topic Models"
+          authors: Hovy (Textbook)
+        -
+          url: http://coms2710.barnard.edu/textbook/Text-Analysis/Topic-Modeling.html
+          title: Topic Modeling
+          authors: Online Textbook
     -
-      date: 2021-05-17
-      title: Lecture 11 <br> Twitter API (TA covers)
-    -
-      date: 2021-05-18
-      title: No class (or TA covers)
+      date: 2021-05-18 
+      title: "Lecture 10 <br> Token Level Classification: Named Entity Recognition"
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Text-Analysis/Named-Entity-Recognition.html
+          title: Named Entity Recognition
+          authors: Online Textbook
+
+      assignments:
+        -
+          deadline: 2021-05-19
+          title: HW08 - spaCy primer
     -
       date: 2021-05-19
-      title: Lecture 11 <br> Hypothesis Testing
+      title: "Lecture 11 <br> Token Level Classification: Part of Speech Tagging"
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Text-Analysis/POS-Keywords.html
+          title: Part of Speech Tagging
+          authors: Online Textbook
     -
       date: 2021-05-20
-      title: Lecture 12 <br> Hypothesis Testing
+      title: "Lecture 12 <br> Naive Bayes for Sentence Level Classification: Sentiment Analysis"
+      readings:
+        -
+          url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+          title: "Chapter 4: Naive Bayes and Sentiment Classification"
+          authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
 -
-  name: "Week 4 (05/24) - Hypothesis Testing"
+  name: "Week 4 (05/24) - Data Collection & Hypothesis Testing"
   lectures:
     -
       date: 2021-05-24
-      title: Lecture 9
+      title: Lecture 13 <br> Web Scraping
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Data-Collection/Web-Scraping-Part1.html
+          title: Web Scraping 101
+          authors: Online Textbook
+        - 
+          url: https://cmci.colorado.edu/~cafi5706/ICWSM2020_datascraping.pdf
+          title: "No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service"
+          authors: Casey Fiesler, Nathan Beard, Brian C. Keegan
+
     -
       date: 2021-05-25
-      title: Lecture 10
+      title: "Lecture 14 <br> APIs: Twitter"
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Data-Collection/Twitter-Data-Collection-Home.html
+          title: Collecting Twitter Data
+          authors: Online Textbook
+        -
+          url: https://modelviewculture.com/pieces/the-twitterethics-manifesto
+          title: "The #TwitterEthics Manifesto"
+          authors: Dorothy Kim and Eunsong Kim
     -
       date: 2021-05-26
-      title: Lecture 11
+      title: "Lecture 15 <br> APIs: Reddit" 
+      readings:
+        -
+          url: http://coms2710.barnard.edu/textbook/Data-Collection/Reddit-Data-Collection-With-PSAW.html
+          title: Collecting Reddit Data
+          authors: Online Textbook
+        -
+          url: https://arxiv.org/abs/2001.08435
+          title: The Pushshift Reddit Dataset
+          authors: Baumgartner, Jason, Savvas Zannettou, Brian Keegan, Megan Squire, and Jeremy Blackburn. 2020
     -
       date: 2021-05-27
-      title: Lecture 12
-    -
-      date: 2021-05-28
-      title:
-      assignment: 
-        - 
-          title: "Project Proposal due"
+      title: Lecture 16 <br> Hypothesis Testing
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html
+          title: Testing Testing_Hypotheses
+          authors: Ani Adhikari and John DeNero, inferential Thinking
 -
-  name: "Week 5 (05/31) - "
+  name: "Week 5 (05/31) - Advanced Topics"
   lectures:
     -
       date: 2021-05-31
       title: Memorial Day
     -
       date: 2021-06-01
-      title: Lecture 10
+      title: Lecture 17 <br> Word Embeddings
+      readings:
+        -
+          title: "Chapter 5.3: Distributed Representations"
+          authors: Hovy (Textbook) 
     -
       date: 2021-06-02
-      title: Lecture 11
+      title: Lecture 18 <br> Matrix Factorization
+      readings:
+        -
+          title: "Chapter 6: Matrix Factorization"
+          authors: Hovy (Textbook)
+
     -
       date: 2021-06-03
-      title: Lecture 12
-    -
+      title: Lecture 19 <br> Clustering
+      readings: 
+        -
+          title: "Chpater 7: Clustering"
+          authors: Hovy (Textbook)
 -
+  name: "Week 6 (06/07) - Projects"
   lectures:
     -
-  name: "Week 6 (05/07) - Projects"
+      date: 2021-06-07
+      title: Lecture 20 
+    -
+      date: 2021-06-08
+      title: Lecture 21
+    -
+      date: 2021-06-09
+      title: Lecture 22
+    -
+      date: 2021-06-10
+      title: Lecture 23
+    -
+      date: 2021-06-14
+      title: Lecture 24 <br> Project Presentations

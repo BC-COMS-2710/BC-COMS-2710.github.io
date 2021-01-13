@@ -87,8 +87,8 @@ Textbook & Course Readings
 Grading
 : This is a project-based course. 
 The majority of your grade will be based on assignments.
-* Final Project - 50%
-* Homeworks - 40%
+* Final Project - 25%
+* Homeworks - 65%
 * Participation - 10%
 
 Assignments

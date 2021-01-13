@@ -209,6 +209,10 @@
         -
           title: "Chapter 5.3: Distributed Representations"
           authors: Hovy (Textbook) 
+        -
+          title: "Word embeddings quantify 100 years of gender and ethnic stereotypes"
+          authors: Nikhil Garg, Londa Schiebinger, Dan Jurafsky, and James Zou. 2018
+          url: https://www.pnas.org/content/115/16/E3635
     -
       date: 2021-06-02
       title: Lecture 18 <br> Matrix Factorization
@@ -229,16 +233,21 @@
   lectures:
     -
       date: 2021-06-07
-      title: Lecture 20 
+      title: Lecture 20 <br> Language Modeling and n-grams <br> Project Expectations
+      readings:
+        -
+          title: "Chapter 8: Language Models"
+          authors: Hovy (Textbook)
+
     -
       date: 2021-06-08
-      title: Lecture 21
+      title: Lecture 21 <br> Project Discussions
     -
       date: 2021-06-09
-      title: Lecture 22
+      title: Lecture 22 <br> Projcet Discussions
     -
       date: 2021-06-10
-      title: Lecture 23
+      title: Lecture 23 <br> Project Discussions
     -
       date: 2021-06-14
       title: Lecture 24 <br> Project Presentations

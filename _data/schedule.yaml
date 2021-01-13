@@ -78,6 +78,10 @@
           title: What can software tell us about political candidates? A critical analysis of a computerized method for political discourse
           url: readings/Kangas2014Politics.pdf
           authors: Kangas
+      assignments:
+        -
+          deadline: 2021-05-1q
+          title: HW05
     -
       date: 2021-05-12
       title: Lecture 7 <br> Pointwise-Mutual Information <br> Term Frequency Inverse Document Frequency
@@ -88,7 +92,11 @@
         - 
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/TF-IDF.html
           title: TF-IDF
-          authors: Online Textbook    
+          authors: Online Textbook
+      assignments:
+        -
+          deadline: 2021-05-12
+          title: HW06  
     -
       date: 2021-05-13
       title: Lecture 8 <br> Operationalizing and Stylometry
@@ -119,6 +127,10 @@
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/Topic-Modeling.html
           title: Topic Modeling
           authors: Online Textbook
+      assignments:
+        -
+          deadline: 2021-05-17
+          title: HW08  
     -
       date: 2021-05-18 
       title: "Lecture 10 <br> Token Level Classification: Named Entity Recognition"
@@ -130,8 +142,8 @@
 
       assignments:
         -
-          deadline: 2021-05-19
-          title: HW08 - spaCy primer
+          deadline: 2021-05-18
+          title: HW09
     -
       date: 2021-05-19
       title: "Lecture 11 <br> Token Level Classification: Part of Speech Tagging"
@@ -140,6 +152,10 @@
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/POS-Keywords.html
           title: Part of Speech Tagging
           authors: Online Textbook
+      assignments:
+        -
+          deadline: 2021-05-19
+          title: HW10
     -
       date: 2021-05-20
       title: "Lecture 12 <br> Naive Bayes for Sentence Level Classification: Sentiment Analysis"
@@ -148,6 +164,10 @@
           url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
           title: "Chapter 4: Naive Bayes and Sentiment Classification"
           authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
+      assignments:
+        -
+          deadline: 2021-05-20
+          title: HW11
 -
   name: "Week 4 (05/24) - Data Collection & Hypothesis Testing"
   lectures:
@@ -163,6 +183,10 @@
           url: https://cmci.colorado.edu/~cafi5706/ICWSM2020_datascraping.pdf
           title: "No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service"
           authors: Casey Fiesler, Nathan Beard, Brian C. Keegan
+      assignments:
+        -
+          deadline: 2021-05-124
+          title: "HW12: CULPA"
 
     -
       date: 2021-05-25
@@ -176,6 +200,10 @@
           url: https://modelviewculture.com/pieces/the-twitterethics-manifesto
           title: "The #TwitterEthics Manifesto"
           authors: Dorothy Kim and Eunsong Kim
+      assignments:
+        -
+          deadline: 2021-05-25
+          title: "HW13: Presidential Tweets"
     -
       date: 2021-05-26
       title: "Lecture 15 <br> APIs: Reddit" 
@@ -188,6 +216,10 @@
           url: https://arxiv.org/abs/2001.08435
           title: The Pushshift Reddit Dataset
           authors: Baumgartner, Jason, Savvas Zannettou, Brian Keegan, Megan Squire, and Jeremy Blackburn. 2020
+      assignments:
+        -
+          deadline: 2021-05-26
+          title: "HW14: Subreddits"
     -
       date: 2021-05-27
       title: Lecture 16 <br> Hypothesis Testing
@@ -228,6 +260,10 @@
         -
           title: "Chpater 7: Clustering"
           authors: Hovy (Textbook)
+      assignments:
+        -
+          deadline: 2021-06-03
+          title: Project Proposal
 -
   name: "Week 6 (06/07) - Projects"
   lectures:

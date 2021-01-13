@@ -124,7 +124,7 @@ This is a project-based course.  Instead of exams, you will do a series of hands
 Late day policy
 : To account for issues that arise in these uncertain times, each student has ?? late days for the homeworks and projects.
 <br>
-See the [Policies](http://localhost:4000/policies.html#late-days) for more details.
+See the [Policies](https://coms2710.barnard.edu/policies.html#late-days) for more details.
 <!--
 Each student has five free "late days". Homeworks can be submitted at most two days late. If you are out of late days, then you will not be able to submit your homework. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays. You do not need to ask permission to use your late days. No additional late days are granted.
 -->

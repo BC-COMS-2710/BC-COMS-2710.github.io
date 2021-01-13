@@ -1,5 +1,5 @@
 ---
-title: Computational Text Analysis - COMS 2XXX - Barnard College
+title: Computational Text Analysis - COMS 2710 - Barnard College
 layout: default
 img: <!-- turk-engraving-detail -->
 img_link: <!-- http://en.wikipedia.org/wiki/The_Turk -->
@@ -46,7 +46,8 @@ Check out the [excellent final projects](http://crowdsourcing-class.org/final-pr
 
 
 Course number
-: [BC COMS](http://cs.barnard.edu/) 2xxx - students from all majors are welcome!
+: [BC COMS](http://cs.barnard.edu/) 2710 - students from all majors are welcome!
+: ***This course likely does not count for the CS Major***
 
 Instructor
 : [Adam Poliak](http://azpoliak.github.io)

@@ -44,31 +44,31 @@ and [Piazza]().
 
       {% for lecture in week.lectures %}
 
-      <!-- Create a HTML anchor for the most recent lecture -->
-      {% capture lecture_date %}{{lecture.date | date: '%s'}}{% endcapture %}
-      {% assign lecture_date = lecture_date | plus: 0 %}
-      {% assign now = now | minus: 14400 %}
+        <!-- Create a HTML anchor for the most recent lecture -->
+        {% capture lecture_date %}{{lecture.date | date: '%s'}}{% endcapture %}
+        {% assign lecture_date = lecture_date | plus: 0 %}
+        {% assign now = now | minus: 14400 %}
 
-      <tr
-      {% if anchor_created != true and lecture_date >= now %}
-        {% assign anchor_created = true %}
-        id="now" 
-      {% endif %}
-      
-      {% if lecture.type %}
-        {% if lecture.type and lecture.type == 'exam' %}
-          class="info" 
-        {% else if lecture.type and lecture.type == 'deadline' %}
-          class="warning"
-        {% else if lecture.type and lecture.type == 'no_lecture' %}
-          class="success"
+        <tr
+        {% if anchor_created != true and lecture_date >= now %}
+          {% assign anchor_created = true %}
+          id="now" 
         {% endif %}
-      {% endif %}
-      >
+        
+        {% if lecture.type %}
+          {% if lecture.type and lecture.type == 'exam' %}
+            class="info" 
+          {% else if lecture.type and lecture.type == 'deadline' %}
+            class="warning"
+          {% else if lecture.type and lecture.type == 'no_lecture' %}
+            class="warning"
+          {% endif %}
+        {% endif %}
+        >
 
-      <!-- End create a HTML anchor for the most recent lecture -->
-        <td>{{ lecture.date | date: '%a, %b %-d, %Y' }}</td>
-        <td>
+        <!-- End create a HTML anchor for the most recent lecture -->
+          <td>{{ lecture.date | date: '%a, %b %-d, %Y' }}</td>
+          <td>
          
             {{ lecture.title }} 
             {% if lecture.slides %}

@@ -233,7 +233,8 @@
   lectures:
     -
       date: 2021-05-31
-      title: Memorial Day
+      title: "Memorial Day <br> No Lecture"
+      type: 'deadline'
     -
       date: 2021-06-01
       title: Lecture 17 <br> Word Embeddings <br> Project Expectations

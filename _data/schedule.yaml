@@ -99,23 +99,18 @@
           title: HW06  
     -
       date: 2021-05-13
-      title: Lecture 8 <br> Operationalizing and Stylometry
+      old_title: Lecture 8 <br> Operationalizing and Stylometry
+      title: Lecture 8 <br> Topic Modeling
       readings:
       assignments:
         -
           deadline: 2021-05-12
           title: HW07
-      readings:
+      old_readings:
         -
           url: readings/LiteraryLabPamphlet6.pdf
           title: Operationalizing
           authors: Moretti
--
-  name: "Week 3 (05/17) - Machine Learning: Classification"
-  lectures:
-    -
-      date: 2021-05-17
-      title: Lecture 9 <br> Topic Modeling
       readings:
         - 
           url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
@@ -127,6 +122,12 @@
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/Topic-Modeling.html
           title: Topic Modeling
           authors: Online Textbook
+-
+  name: "Week 3 (05/17) - Machine Learning: Classification"
+  lectures:
+    -
+      date: 2021-05-17
+      title: Lecture 9 <br> Guest Lecture 1
       assignments:
         -
           deadline: 2021-05-17

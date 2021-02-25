@@ -71,8 +71,7 @@ Office Hours
 : <a href="office-hours.html">Times</a>
 
 Prerequisites
-: A prior programming course (e.g. [BC1016](http://coms1016.barnard.edu/), BC3050, W1004, E1006, W1002)
-: Instructor approval required.
+: Prior programming experience. Some prior programming course that are suitable include [BC1016](http://coms1016.barnard.edu/), [BC3050](https://edblogs.columbia.edu/eescx3050-001-2015-3/), W1004, E1006, W1002, [STAT UN2102](https://leewtai.github.io/courses/stat_computing/syllabus.html)
 
 Modes of Thinking Requirement
 : Thinking Quantitatively and Empirically

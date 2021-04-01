@@ -1,57 +1,71 @@
 -
   name: "Week 1 (05/03) - Working with Text in Python and Bash"
+  readings_deadline: 2021-05-07
+  readings:
+    - 
+      url: https://arxiv.org/pdf/1907.01468.pdf
+      title: "How we do things with words: Analyzing text associal and cultural data"
+      authors: Nguyen D, Liakata M, DeDeo S, Eisenstein J, Mimno D, Tromble R, Winters J
+      citation: "Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62."
+    -
+      url: https://kenbenoit.net/pdfs/CURINI_FRANZESE_Ch26.pdf
+      title: "Text as Data: An Overview."
+      citation: "Benoit, Kenneth. (2020). In Curini, Luigi and Robert Franzese, eds. Handbook of Research Methods in Political Science and International Relations. Thousand Oaks: Sage. pp461-497."
+  homework_title: "HW01 - Grade Level of Presidential Addresses"
+  homework_deadline: 2021-05-10
+
   lectures:
     -
       date: 2021-05-03
-      title: Lecture 1 <br> Course Overview
+      title: Lecture 1 <br> Course Overview <br> Command Line
       assignments:
         -
           deadline: 2021-05-04
-          title: HW00 - Course Setup
+          title: Tutorial01 - Python Bootcamp
       readings:
-        -
-          url: https://arxiv.org/pdf/1907.01468.pdf
-          title: "How we do things with words: Analyzing text associal and cultural data"
-          authors: Nguyen D, Liakata M, DeDeo S, Eisenstein J, Mimno D, Tromble R, Winters J
+        - 
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html#command-line-cheatsheet
+          title: "Chapter 1: The Command Line"
+          authors: Cultural Analytics Textbook
     -
       date: 2021-05-04
-      title: Lecture 2 <br> Unix, Bash, the Command Line, and git
+      title: Lecture 2 <br> Python Overview
       assignments:
         -
           deadline: 2021-05-05
-          title: "HW01 - Unix, Bash, and Cunix tutorial" 
+          title: "Tutorial02 - 2016 Miami Presidential Debate" 
       readings:
         - 
-          url: https://bc-coms-2710.github.io/textbook/Command-Line/The-Command-Line.html
-          title: "Chapter 1: The Command Line"
-          authors: Online Textbook
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Python.html
+          title: "Chapter 2: Python Basics"
+          authors: Cultural Analytics Textbook
     -
       date: 2021-05-05
-      title: "Lecture 3 <br> Python Review & Regex"
+      title: "Lecture 3 <br> Regex <br> Pandas"
       assignments:
         -
           deadline: 2021-05-05
           title: HW02 - Word Counts in Python
       readings:
-        - 
-          url: http://coms2710.barnard.edu/textbook/Python/Python.html
-          title: "Chapter 2: Python Basics"
-          authors: Online Textbook
         -
           title: "Chapter 3 Regular Expressions"
           authors: Hovy (Textbook) 
+        -
+          title: Chapter 2 - Numpy and BabyPandas
+          authors: Dive into Data Science
+          url: https://eldridgejm.github.io/dive_into_data_science/02-data_sets/arrays.html
     -
       date: 2021-05-06
-      title: "Lecture 4 <br> Pandas: Tables and Visualizations in Python"
+      title: "Lecture 4 <br> Pandas Visualizations"
       assignments:
         -
           deadline: 2021-05-05
           title: HW03 - Data Analysis in Python
       readings:
         -
-          url: http://coms2710.barnard.edu/textbook/Data-Analysis/Data-Analysis.html
-          title: "Chapter 3 - Data Analysis"
-          authors: Online Textbook
+          url: https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html
+          title: "Chapter 3 - Visualization"
+          authors: Dive into Data Science
 -
   name: "Week 2 (05/10) - Words, Words, Words: the base unit of analysis"
   lectures:
@@ -282,7 +296,7 @@
       title: Lecture 21 <br> Project Discussions
     -
       date: 2021-06-09
-      title: Lecture 22 <br> Projcet Discussions
+      title: "Lecture 22 <br> Guest Lecture: <a href='https://lucy3.github.io/'>Lucy Li, Berkeley</a> <br> Project Discussions"
     -
       date: 2021-06-10
       title: Lecture 23 <br> Project Discussions

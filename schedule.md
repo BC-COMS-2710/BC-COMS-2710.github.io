@@ -19,7 +19,7 @@ The lecture schedule will be updated as the term progresses.
 
 ### Week 0 - Pre-course
 
-Make sure to fill out the pre-course survey that is available on Piazza.
+Make sure to fill out the pre-course survey that is available on Slack.
 
 Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://coms2710.columbiajupyter2.org/)
 and [Slack](https://bc-coms-1016-fallb.slack.com/).
@@ -28,7 +28,35 @@ and [Slack](https://bc-coms-1016-fallb.slack.com/).
   <h3>
     {{ week.name }}
   </h3>
+
+  {% if week.readings %}
+  <h4>
+  	 Weekly Readings - Due {{week.readings_deadline | date: '%a, %b %-d, %Y'}}
+  </h4>
+  
+  <ul 
+  	class="{{ week.name }}-readings">
   	
+  {% for reading in week.readings %}
+  	<li>
+  		<a href="{{ reading.url }}">{{ reading.title }}</a> 
+      {{ reading.citation }}
+  	</li>
+
+  {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if week.homework_title %}
+  <h4>
+    Weekly Homework - Due {{ week.homework_deadline | date: '%a, %b %-d, %Y'}}
+  </h4>
+
+  <ul>
+    <li> {{ week.homework_title }}  </li>
+  </ul>
+
+  {% endif %}
   	
   <table class="table table-striped">
     <thead>
@@ -37,7 +65,7 @@ and [Slack](https://bc-coms-1016-fallb.slack.com/).
         <th>Topic</th>
         <!--<th>Recordings</th>-->
         <th>Reading</th>
-        <th>Assignment</th>
+        <th>Tutorial</th>
       </tr>
     </thead>
     <tbody>

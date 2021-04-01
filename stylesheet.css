@@ -452,3 +452,6 @@ select { background-color: #ddd; }
 	background: #606870;
 }
 
+tr.warning td{
+	background-color: #d0b528 !important;
+}

@@ -21,8 +21,8 @@ The lecture schedule will be updated as the term progresses.
 
 Make sure to fill out the pre-course survey that is available on Piazza.
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub]()
-and [Piazza]().
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://coms2710.columbiajupyter2.org/)
+and [Slack](https://bc-coms-1016-fallb.slack.com/).
 
 {% for week in site.data.schedule %}
   <h3>

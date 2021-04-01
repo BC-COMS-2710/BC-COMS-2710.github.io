@@ -25,10 +25,9 @@ We will be using a collection of textbooks, papers, and online resources.
 The three primary textbooks for this course are:
 1. [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3). A copy has been put on course reserves at the Barnard Library. 
 1. Jurafsky and Martin, Speech and Language Processing (3rd ed. draft) [(online copy)](https://web.stanford.edu/~jurafsky/slp3/)
-2. [Computational Text Analysis Textbook](https://bc-coms-2710.github.io/textbook/welcome.html) is an online textbook. It is a modified version of the textbook Melanie Walsh at Cornell developed for her [Intro to Culturual Analytics course](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
+2. [Cultural Analytics Textbook](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) is an online textbook Melanie Walsh at Cornell developed for her [Intro to Culturual Analytics course](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
 
-Students are free to use their own computers, but you are encouraged to use [CUNIX (Columbia's Unix Platform)](https://cuit.columbia.edu/unix). We will go over how to use cunix during the first week of classes.
-Data for all assignments will be hosted and accessible on cunix and all starter-code will be accessible via GitHub Classroom.
+All programming assignments will be distributed and completed on (JupyterHub)[https://coms2710.columbiajupyter2.org/]
 
 ### Zoom Etiquitte
 - Mute your microphone when you're not speaking

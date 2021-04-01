@@ -70,6 +70,10 @@
           url: https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html
           title: "Chapter 3 - Visualization"
           authors: Dive into Data Science
+    -
+      date: 2021-05-07
+      title: Deadline to Add Summer A Courses
+      type: info
 -
   name: "Week 2 (05/10) - Words, Words, Words: the base unit of analysis"
   readings_deadline: 2021-05-14
@@ -102,6 +106,10 @@
         -
           title: "Chapter 2: What’s in a Word?"
           authors: Hovy (Textbook)
+        - 
+          title: Part of Speech Tagging
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/POS-Keywords.html
+          authors: Cultural Analytics Textbook 
       assignments:
         -
           deadline: 2021-05-10
@@ -168,31 +176,62 @@
           authors: Hovy (Textbook)
 -
   name: "Week 3 (05/17) - Topic Modeling"
+  readings_deadline: 2021-05-24
+  readings:
+    - 
+      url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf
+      title: "Chapter 4: Historical Documents, Applications of Topic Models"
+      citation: "Boyd-Graber, J. L., Hu, Y., & Mimno, D. (2017). Applications of topic models (Vol. 11). now Publishers Incorporated."
+    - 
+      url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf
+      title: "Chapter 5: Understanding Scientific Publications, Applications of Topic Models"
+      citation: "Boyd-Graber, J. L., Hu, Y., & Mimno, D. (2017). Applications of topic models (Vol. 11). now Publishers Incorporated."
+    - 
+      url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf
+      title: "Chapter 6:  Fiction and Literature, Applications of Topic Models"
+      citation: "Boyd-Graber, J. L., Hu, Y., & Mimno, D. (2017). Applications of topic models (Vol. 11). now Publishers Incorporated."
+    - 
+      url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf
+      title: "Chapter 7: Computational Social Science, Applications of Topic Models"
+      citation: "Boyd-Graber, J. L., Hu, Y., & Mimno, D. (2017). Applications of topic models (Vol. 11). now Publishers Incorporated."
   lectures:
     -
       date: 2021-05-17
-      title: Lecture 9 <br> Guest Lecture 1
-      assignments:
+      title: Deadline to Drop Summer A Course
+      type: info
+    -
+      date: 2021-05-17
+      title: No Lecture or Guest Lecture
+      type: no_lecture
+      old_assignments:
         -
           deadline: 2021-05-17
           title: HW08  
     -
       date: 2021-05-18 
-      title: "Lecture 10 <br> Token Level Classification: Named Entity Recognition"
-      readings:
+      title: No Lecture or Guest Lecture
+      type: no_lecture
+      old_title: "Lecture 10 <br> Token Level Classification: Named Entity Recognition"
+      old_readings:
         -
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/Named-Entity-Recognition.html
           title: Named Entity Recognition
           authors: Online Textbook
 
-      assignments:
+      old_assignments:
         -
           deadline: 2021-05-18
           title: HW09
     -
       date: 2021-05-19
-      title: "Lecture 11 <br> Token Level Classification: Part of Speech Tagging"
+      title: "Lecture 9 <br> Latent Dirichlet Allocation"
       readings:
+        -
+          title: "Chapter 9: Topic Models"
+          authors: Hovy (Textbook)
+
+      old_title: "Lecture 11 <br> Token Level Classification: Part of Speech Tagging"
+      old_readings:
         -
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/POS-Keywords.html
           title: Part of Speech Tagging
@@ -203,8 +242,14 @@
           title: HW10
     -
       date: 2021-05-20
-      title: "Lecture 12 <br> Naive Bayes for Sentence Level Classification: Sentiment Analysis"
+      title: "Lecture 10 <br> Evaluating Topic Models"
       readings:
+        - 
+          title: "Chapter 3: Evaluation & Interpretation in Applications of Topic Models"
+          url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf
+          authors: Boyd-Graber, Hu, Mimno
+      old_title: "Lecture 12 <br> Naive Bayes for Sentence Level Classification: Sentiment Analysis"
+      old_readings:
         -
           url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
           title: "Chapter 4: Naive Bayes and Sentiment Classification"
@@ -313,6 +358,10 @@
 -
   name: "Week 6 (06/07) - Advanced Topics & Projects"
   lectures:
+    -
+      date: 2021-06-07
+      title: Deadline to P/D/F or Withdraw from Summer A Course
+      type: info
     -
       date: 2021-06-07
       title: Lecture 20 <br> Language Modeling and n-grams

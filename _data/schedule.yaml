@@ -227,6 +227,9 @@
       title: "Lecture 9 <br> Latent Dirichlet Allocation"
       readings:
         -
+          url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
+          title: Topic Modeling demo (David Mimno)
+        -
           title: "Chapter 9: Topic Models"
           authors: Hovy (Textbook)
 

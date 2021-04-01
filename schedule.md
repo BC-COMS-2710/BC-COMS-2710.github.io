@@ -11,7 +11,7 @@ active_tab: lectures
 
 
 <div class="alert alert-info">
-You can <a href="">watch recordings of the lecture videos online</a>.
+You can <a href="https://columbia.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=0#folderID=%22b5b51c7f-33cd-4a6b-8dfc-acfd01007b3b%22">watch recordings of the lecture videos online</a>.
 Recordings are saved on Panopto and require a UNI login.
 </div>
 

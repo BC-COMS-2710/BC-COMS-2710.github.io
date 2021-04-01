@@ -11,6 +11,10 @@
       url: https://kenbenoit.net/pdfs/CURINI_FRANZESE_Ch26.pdf
       title: "Text as Data: An Overview."
       citation: "Benoit, Kenneth. (2020). In Curini, Luigi and Robert Franzese, eds. Handbook of Research Methods in Political Science and International Relations. Thousand Oaks: Sage. pp461-497."
+    -
+      url: https://people.cs.umass.edu/~wallach/workshops/nips2011css/papers/OConnor.pdf
+      title: "Computational Text Analysis for Social Science: Model Assumptions and Complexity"
+      citation: "O’Connor, B., Bamman, D., & Smith, N. A. (2011, December). Computational text analysis for social science: Model assumptions and complexity. In Second workshop on comptuational social science and the wisdom of crowds (NIPS 2011)."
   homework_title: "HW01 - Grade Level of Presidential Addresses"
   homework_deadline: 2021-05-10
 
@@ -68,6 +72,28 @@
           authors: Dive into Data Science
 -
   name: "Week 2 (05/10) - Words, Words, Words: the base unit of analysis"
+  readings_deadline: 2021-05-14
+  readings:
+    -
+      title: "WordNet: A Lexical Database for English"
+      url: https://dl.acm.org/doi/pdf/10.1145/219717.219748?casa_token=uT2izFnbEIoAAAAA:f2bKFcRo6lMu7ne5u9_NhJxneIM2H32Y-FcWCfCrF7Uu-SAPtVBhYtCGM0GbvAumo_TIRUh1A5II
+      citation: "George A. Miller. 1995. WordNet: a lexical database for English. Commun. ACM 38, 11 (Nov. 1995), 39–41."
+    -
+      title: The Psychological Meaning of Words - LIWC and Computerized Text Analysis Methods
+      url: https://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf
+      authors: Tausczik & Pennebaker
+      citation: "Tausczik, Y. R., & Pennebaker, J. W. (2010). The psychological meaning of words: LIWC and computerized text analysis methods. Journal of language and social psychology, 29(1), 24-54."
+    -
+      title: What can software tell us about political candidates? A critical analysis of a computerized method for political discourse
+      url: readings/Kangas2014Politics.pdf
+      authors: Kangas
+      citation: "Kangas, S. E. (2014). What can software tell us about political candidates?: A critical analysis of a computerized method for political discourse. Journal of Language and Politics, 13(1), 77-97."
+    -
+      title: "Measuring the happiness of large-scale written expression: Songs, Blogs, and Presidents."
+      url: https://arxiv.org/pdf/1703.09774.pdf
+      citation: "Dodds, P.S., Danforth, C.M. (2010). Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and Presidents. J Happiness Stud 11, 441–456"
+
+
   lectures:
     -
       date: 2021-05-10
@@ -82,31 +108,30 @@
           title: HW04 
     -
       date: 2021-05-11
-      title: Lecture 6 <br> Linguistic Inquiry and Word Count (LIWC)
+      title: Lecture 6 <br> Probability
       readings:
         -
-          title: The Psychological Meaning of Words - LIWC and Computerized Text Analysis Methods
-          url: https://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf
-          authors: Tausczik & Pennebaker
-        -
-          title: What can software tell us about political candidates? A critical analysis of a computerized method for political discourse
-          url: readings/Kangas2014Politics.pdf
-          authors: Kangas
+          title: Appendix B - Probabilities
+          authors: Hovy (Textbook)
       assignments:
         -
-          deadline: 2021-05-1q
+          deadline: 2021-05-11
           title: HW05
+
     -
       date: 2021-05-12
-      title: Lecture 7 <br> Pointwise-Mutual Information <br> Term Frequency Inverse Document Frequency
+      title: Lecture 7 <br> Representation
       readings:
         -
-          title: "Chapter 4: Pointwise Mutual Information; Chapter 5.1: Enter the Matrix; Chapter 5.2: Discrete Representations "
+          title: "Chapter 4: Pointwise Mutual Information"
+          authors: Hovy (Textbook)
+        -
+          title: "Chapter 5.1: Enter the Matrix; Chapter 5.2: Discrete Representations"
           authors: Hovy (Textbook)
         - 
-          url: http://coms2710.barnard.edu/textbook/Text-Analysis/TF-IDF.html
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF.html
           title: TF-IDF
-          authors: Online Textbook
+          authors: Cultural Analytics Textbook
       assignments:
         -
           deadline: 2021-05-12
@@ -114,7 +139,8 @@
     -
       date: 2021-05-13
       old_title: Lecture 8 <br> Operationalizing and Stylometry
-      title: Lecture 8 <br> Topic Modeling
+      old_title: Lecture 8 <br> Topic Modeling
+      title: Lecture 8 <br> Language Modeling, n-grams, & Phrases
       readings:
       assignments:
         -
@@ -125,7 +151,7 @@
           url: readings/LiteraryLabPamphlet6.pdf
           title: Operationalizing
           authors: Moretti
-      readings:
+      old_readings:
         - 
           url: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
           title: Topic Modeling demo (David Mimno)
@@ -136,8 +162,12 @@
           url: http://coms2710.barnard.edu/textbook/Text-Analysis/Topic-Modeling.html
           title: Topic Modeling
           authors: Online Textbook
+      readings:
+        -
+          title: "Chapter 8: Language Models"
+          authors: Hovy (Textbook)
 -
-  name: "Week 3 (05/17) - Machine Learning: Classification"
+  name: "Week 3 (05/17) - Topic Modeling"
   lectures:
     -
       date: 2021-05-17
@@ -184,7 +214,7 @@
           deadline: 2021-05-20
           title: HW11
 -
-  name: "Week 4 (05/24) - Data Collection & Hypothesis Testing"
+  name: "Week 4 (05/24) - Machine Learning"
   lectures:
     -
       date: 2021-05-24
@@ -244,7 +274,7 @@
           title: Testing Testing_Hypotheses
           authors: Ani Adhikari and John DeNero, inferential Thinking
 -
-  name: "Week 5 (05/31) - Advanced Topics"
+  name: "Week 5 (05/31) - Data Collection"
   lectures:
     -
       date: 2021-05-31
@@ -281,7 +311,7 @@
           deadline: 2021-06-03
           title: Project Proposal
 -
-  name: "Week 6 (06/07) - Projects"
+  name: "Week 6 (06/07) - Advanced Topics & Projects"
   lectures:
     -
       date: 2021-06-07

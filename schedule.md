@@ -53,7 +53,13 @@ and [Slack](https://bc-coms-1016-fallb.slack.com/).
   </h4>
 
   <ul>
-    <li> {{ week.homework_title }}  </li>
+    
+    <li> {% if week.homework_url %} 
+            <a href="{{ week.homework_url }}">{{ week.homework_title }}</a>
+         {% else %} 
+           {{ week.homework_title }}
+         {% endif %}
+    </li>
   </ul>
 
   {% endif %}
@@ -157,7 +163,11 @@ and [Slack](https://bc-coms-1016-fallb.slack.com/).
             {% for assignment in lecture.assignments %}
                 {% if assignment.canceled %}<strike> {% endif %}
                 {% if assignment.optional %}<b>Optional:</b> {% endif %}
-                <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
+                {% if assignment.url %}
+                  <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
+                {% else %}
+                  {{ assignment.title }}
+                {% endif %}
                 (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
                 {% if assignment.canceled %}</strike> {% endif %}
             <br />

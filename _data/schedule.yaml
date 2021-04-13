@@ -17,6 +17,7 @@
       citation: "O’Connor, B., Bamman, D., & Smith, N. A. (2011, December). Computational text analysis for social science: Model assumptions and complexity. In Second workshop on comptuational social science and the wisdom of crowds (NIPS 2011)."
   homework_title: "HW01 - Grade Level of Presidential Addresses"
   homework_deadline: 2021-05-10
+  homework_url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fhomeworks%2FHW01%2FHW01.ipynb&branch=master
 
   lectures:
     -
@@ -26,6 +27,7 @@
         -
           deadline: 2021-05-04
           title: Tutorial01 - Python Bootcamp
+          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Ftutorial01%2Ftutorial01.ipynb&branch=master
       readings:
         - 
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html#command-line-cheatsheet

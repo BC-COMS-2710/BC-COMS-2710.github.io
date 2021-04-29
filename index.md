@@ -63,8 +63,9 @@ Discussion Forum
 
 Time and place
 : Summer A May 3rd - June 18th
-: Time and Day: TBD
-: Location: Check courseworks for Zoom link
+: Time and Day: MTWR 10:45am-12:20pm
+: Zoom link: Check courseworks or Slack for Zoom link
+: Location: Milbank 207
 
 
 Office Hours

@@ -13,9 +13,9 @@ All times listed on the course webpage are in Eastern Standard Time (EST).
 
 ### Support
 You are not alone in this course; the course staff
-are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. Please use Piazza to ask questions. It is very likely that many of you will have the same questions so please post questions publicly on Piazza by default. This will allow your peers to answer your questions as well. We will also hold virtual office hours for real-time discussions. 
+are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. Please use Slack to ask questions. It is very likely that many of you will have the same questions so please post questions publicly on Slack by default. This will allow your peers to answer your questions as well. We will also hold virtual office hours for real-time discussions. 
 
-The Barnard CS help room is a great resources as well. At this point it is not clear if they will hold hours during the summer. Ideally they will but ultimately that is out of my hands. If they do, we will post the Zoom link on Piazza.
+The Barnard CS help room is a great resources as well. At this point it is not clear if they will hold hours during the summer. Ideally they will but ultimately that is out of my hands. If they do, we will post the Zoom link on Slack.
 
 ### Prerequisites
 The only prerequisite for BC COMS 2710 is some prior programming experience. We've listed classes at Barnard and Columbia that can fulfill this requirement. If you have programming experience and have not taken those previous classes, you are still welcome to enroll in BC COMS 2710. It is okay if you have experience in a programming language that is not Python, we will go over Python basics in the beginning of the course.

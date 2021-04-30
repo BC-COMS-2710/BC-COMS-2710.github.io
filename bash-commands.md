@@ -79,10 +79,10 @@ $ cat output.txt | wc -l >> output.txt # Appends the line count of output.txt to
 #### Downloading Files
 To download the contents of any URL (whether it be a file, HTML page or even a picture), there's a very useful command on Mac and Linux.
 {% highlight tcsh %}
-$ wget http://www.crowdsourcing-class.org/assignment1.html # Downloads the contents of the URL as th file 'assignment1.html' to the current directory (used in Linux)
+$ wget https://www.gutenberg.org/files/10/10-0.txt # Downloads the entire English King James Bible from Project Gutenberg (used in Linx)
 {% endhighlight %}
 {% highlight tcsh %}
-$ curl -O http://www.crowdsourcing-class.org/assignment1.html # Downloads the contents of the URL as th file 'assignment1.html' to the current directory (used in Mac)
+$ curl -O https://www.gutenberg.org/files/10/10-0.txt # Downloads the entire English King James Bible from Project Gutenberg (used in Mac)
 {% endhighlight %}
 
 <!--

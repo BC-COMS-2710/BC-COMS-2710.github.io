@@ -80,10 +80,12 @@ Modes of Thinking Requirement
 
 Textbook & Course Readings
 : Each lecture has an accompanying reading that will be posted to the schedule. Some lectures will have accompanying optional reading related to the lecture's topic.
-: We will be using primarily three textbooks for this course:
+: Many of the accompanying readings will be from the following freely available textbooks:
 1. [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3). [Digital copies](https://doi-org.ezproxy.cul.columbia.edu/10.1017/9781108873352) are available to download with UNI login.
 1. Jurafsky and Martin, Speech and Language Processing (3rd ed. draft) [(online copy)](https://web.stanford.edu/~jurafsky/slp3/)
-2. [Computational Text Analysis Textbook](https://bc-coms-2710.github.io/textbook/welcome.html) is an online textbook. It is a modified version of the textbook Melanie Walsh at Cornell developed for her [Intro to Culturual Analytics course](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
+2. [Computational Text Analysis Textbook](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+is an online textbook developed by
+Melanie Walsh at Cornell for her Intro to Culturual Analytics course.
 1. [Dive Into Data Science](https://eldridgejm.github.io/dive_into_data_science/front.html) developed by Parker Addison and Justin Eldridge at UCSD for their [Principles of Data Science course](https://sites.google.com/ucsd.edu/dsc10spring2021/syllabus).
 
 Grading

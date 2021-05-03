@@ -35,6 +35,7 @@ All programming assignments will be distributed and completed on (JupyterHub)[ht
   - Set your profile image to be a picture (or bitmoji) of you - it really helps make it feel like we're not talking to an empty room!
   - If possible, keep your camera on during class sessions
 
+<!--
 ### Homework and Projects
 Homework assignments are a required part of the course. They will be released on Mondays and Thursdays, and due on Thursdays and Sundays. Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. See the "Learning Cooperatively" section below.
 
@@ -42,6 +43,7 @@ Data science is about analyzing real-world data sets, and so a series of project
 
 #### Late days
 To account for issues that arise in these uncertain times, each student has **XXX late** days for the homeworks and projects. However, you can only use at most **XXX late** days per assignment. 
+--->
 
 ### Barnard Student Honor Code
 Approved by the student body in 1912 and updated in 2016, the Code states:

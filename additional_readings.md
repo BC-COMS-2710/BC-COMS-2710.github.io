@@ -17,6 +17,9 @@ I highly recommend going through these papers:
   - [Text preprocessing for unsupervised learning: Why it matters, when it misleads, and what to do about it](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849145). Matthew J. Denny and Arthur Spirling. Political Analysis, 26(2):168–189, 2018. 
   - [Adapting computational text analysis to social science (and vice versa)](https://journals.sagepub.com/doi/10.1177/2053951715602908). Paul DiMaggio. Big Data & Society, 2015.
   - [Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://web.stanford.edu/~jgrimmer/tad2.pdf). Justin Grimmer and Brandon M. Stewart. Political Analysis, 21(3):267–297, 2013.
+  - [Computational Text Analysis for Social Science: Model Assumptions and Complexity](https://people.cs.umass.edu/~wallach/workshops/nips2011css/papers/OConnor.pdf). 
+Computational Text Analysis for Social Science: Model Assumptions and Complexity" O’Connor, B., Bamman, D., & Smith, N. A. (2011, December). Second workshop on comptuational social science and the wisdom of crowds (NIPS 2011).
+Weekly Homework - Due Mon, May 10, 2021
 - Health
   - [Narrative paths and negotiation of power in birth stories](https://dl.acm.org/doi/pdf/10.1145/3359190)
 Antoniak, Maria, David Mimno, and Karen Levy. Proceedings of the ACM on Human-Computer Interaction 3.CSCW (2019): 1-27.

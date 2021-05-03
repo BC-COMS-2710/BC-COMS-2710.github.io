@@ -107,15 +107,11 @@ as the course meetings and labs
 <tbody>
 <tr align="center">
 <td>Tuesday</td>
-<td align="center">10am - 12pm <br> 6pm - 8pm</td>
-</tr>
-<tr align="center">
-<td>Thursday</td>
-<td align="center">10am - 12pm <br> 3pm - 5pm <br> 7pm - 9pm</td>
+<td align="center">5pm - 7pm </td>
 </tr>
 <tr align="center">
 <td>Friday</td>
-<td align="center">1pm - 3pm</td>
+<td align="center">8am - 10am <br> 3pm - 5pm</td>
 </tr>
 </tbody>
 </table>

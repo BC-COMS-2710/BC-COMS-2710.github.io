@@ -97,6 +97,7 @@ The majority of your grade will be based on assignments.
 * Weekly Reading Reviews - 15%
 * Participation - 5%
 
+<!---
 Assignments
 : During the first 4 weeks of the course, students will complete a mix of daily assignments and week long assignments. These assignments will help students master the material while preparing them for their final projects
 
@@ -106,6 +107,7 @@ Assignments
 Final Project
 : During the last two weeks of the course, students will primarily work on final projects. In the final projects, students will be required to collect and analyze a text corpus to answer a research question of their choosing. For the final project, students will be encouraged to develop and test their own research question but will have the option of
 reproducing results from a list of approved recent research papers instead.
+-->
 
 <!--- 
 * Homeworks (20%)

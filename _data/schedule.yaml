@@ -22,8 +22,8 @@
       assignments:
         -
           deadline: 2021-05-04
-          title: Tutorial01 - Python Bootcamp
-          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Ftutorial01%2Ftutorial01.ipynb&branch=master
+          title: Tutorial 1.1 - Python Bootcamp
+          old_url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Ftutorial01%2Ftutorial01.ipynb&branch=master
       readings:
         - 
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html#command-line-cheatsheet
@@ -35,8 +35,8 @@
       assignments:
         -
           deadline: 2021-05-05
-          title: "Tutorial02 - 2016 Miami Presidential Debate" 
-          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Ftutorial02%2Ftutorial02.ipynb&branch=master
+          title: "Tutorial 1.2 - 2016 Miami Presidential Debate" 
+          old_url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Ftutorial02%2Ftutorial02.ipynb&branch=master
       readings:
         - 
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Python.html
@@ -45,10 +45,6 @@
     -
       date: 2021-05-05
       title: "Lecture 3 <br> Regex <br> Pandas"
-      assignments:
-        -
-          deadline: 2021-05-05
-          title: HW02 - Word Counts in Python
       readings:
         -
           title: "Chapter 3 Regular Expressions"
@@ -62,8 +58,8 @@
       title: "Lecture 4 <br> Pandas Visualizations"
       assignments:
         -
-          deadline: 2021-05-05
-          title: HW03 - Data Analysis in Python
+          deadline: 2021-05-07
+          title: Tutorial 1.3 - Google Store App Reviews with Pandas
       readings:
         -
           url: https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html
@@ -111,8 +107,8 @@
           authors: Cultural Analytics Textbook 
       assignments:
         -
-          deadline: 2021-05-10
-          title: HW04 
+          title: Tutorial 2.1 -  nltk, Spacy, and TextBlobl
+          deadline: 2021-05-11
     -
       date: 2021-05-11
       title: Lecture 6 <br> Probability
@@ -121,10 +117,6 @@
           title: Appendix B - Probabilities
           authors: Hovy (Textbook)
       assignments:
-        -
-          deadline: 2021-05-11
-          title: HW05
-
     -
       date: 2021-05-12
       title: Lecture 7 <br> Representation
@@ -140,9 +132,6 @@
           title: TF-IDF
           authors: Cultural Analytics Textbook
       assignments:
-        -
-          deadline: 2021-05-12
-          title: HW06  
     -
       date: 2021-05-13
       old_title: Lecture 8 <br> Operationalizing and Stylometry
@@ -150,9 +139,6 @@
       title: Lecture 8 <br> Language Modeling, n-grams, & Phrases
       readings:
       assignments:
-        -
-          deadline: 2021-05-12
-          title: HW07
       old_readings:
         -
           url: readings/LiteraryLabPamphlet6.pdf
@@ -203,9 +189,6 @@
       title: No Lecture or Guest Lecture
       type: no_lecture
       old_assignments:
-        -
-          deadline: 2021-05-17
-          title: HW08  
     -
       date: 2021-05-18 
       title: No Lecture or Guest Lecture
@@ -218,9 +201,6 @@
           authors: Online Textbook
 
       old_assignments:
-        -
-          deadline: 2021-05-18
-          title: HW09
     -
       date: 2021-05-19
       title: "Lecture 9 <br> Latent Dirichlet Allocation"
@@ -261,7 +241,7 @@
           deadline: 2021-05-20
           title: HW11
 -
-  name: "Week 4 (05/24) - Machine Learning"
+  name: "Week 4 (05/24) - Data Collection"
   lectures:
     -
       date: 2021-05-24
@@ -321,7 +301,7 @@
           title: Testing Testing_Hypotheses
           authors: Ani Adhikari and John DeNero, inferential Thinking
 -
-  name: "Week 5 (05/31) - Data Collection"
+  name: "Week 5 (05/31) - Machine Learning"
   lectures:
     -
       date: 2021-05-31

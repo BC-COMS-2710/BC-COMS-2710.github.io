@@ -79,9 +79,14 @@ as the course meetings and labs
 <th align="center">Time</th>
 </tr>
 </thead>
-<tbody>
+<tbody align="center">
 <tr align="center">
 <td>Adam Poliak</td>
+<td align="center"></td>
+<td> </td>
+</tr>
+<tr align="center">
+<td>Gauri Narayan</td>
 <td align="center"></td>
 <td> </td>
 </tr>

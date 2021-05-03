@@ -59,7 +59,7 @@ Website
 : [https://coms2710.barnard.edu/](https://coms2710.barnard.edu/)
 
 Discussion Forum
-: [Piazza]() *Requires signing up via a barnard.edu or columbia.edu email*
+: [Slack](https://join.slack.com/t/bc-coms-2710-summera/signup?x=x-p1750262862369-1734547759701-2021619427893) *Requires signing up via a barnard.edu or columbia.edu email*
 
 Time and place
 : Summer A May 3rd - June 18th

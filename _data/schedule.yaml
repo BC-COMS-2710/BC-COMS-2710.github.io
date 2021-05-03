@@ -19,6 +19,7 @@
     -
       date: 2021-05-03
       title: Lecture 1 <br> Course Overview <br> Command Line
+      slides: slides/01-intro.pdf
       assignments:
         -
           deadline: 2021-05-04

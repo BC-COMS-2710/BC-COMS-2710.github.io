@@ -91,8 +91,8 @@ Melanie Walsh at Cornell for her Intro to Culturual Analytics course.
 Grading
 : This is a project-based course. 
 The majority of your grade will be based on assignments.
-* Final Project - 30%
-* Homeworks - 35%
+* Final Project - 35%
+* Homeworks - 30%
 * Daily Tutorials - 20%
 * Weekly Reading Reviews - 15%
 * Participation - 5%

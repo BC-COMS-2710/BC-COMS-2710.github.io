@@ -38,6 +38,7 @@
       title: Lecture 2 <br> Python Overview
       slides: slides/01-intro.pdf
       notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo02.ipynb&branch=master
+      completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo02_solution.ipynb&branch=master
       assignments:
         -
           deadline: 2021-05-05

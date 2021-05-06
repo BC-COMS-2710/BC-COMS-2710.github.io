@@ -15,7 +15,7 @@ All times listed on the course webpage are in Eastern Standard Time (EST).
 Students can work in pairs for the homeworks and final project
 and only one student needs to submit the assignment on gradescope.
 
-Tutorials and readings must be submitted independently on gradescope. We encourage students to discuss the tutorials and readings together but they must be submitted and completed independently. The tutorials are designed to help students gain familarity with the tools and methods covered in the course.
+Tutorials and readings must be submitted independently on gradescope. We encourage students to discuss the tutorials and readings together but they must be submitted and completed independently. The tutorials are designed to help students gain familiarity with the tools and methods covered in the course.
 
 ### Support
 You are not alone in this course; the course staff

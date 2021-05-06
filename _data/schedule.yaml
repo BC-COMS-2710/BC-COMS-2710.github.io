@@ -67,6 +67,7 @@
       date: 2021-05-06
       title: "Lecture 4 <br> Pandas <br> Matplotlib"
       notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo04.ipynb&branch=master
+      completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo04_solution.ipynb&branch=master
       slides: slides/04-pandas-vis.pdf
       assignments:
         -

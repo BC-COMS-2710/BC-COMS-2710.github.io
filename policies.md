@@ -11,6 +11,12 @@ These policies are subject to change until the beginning of the semester and thr
 
 All times listed on the course webpage are in Eastern Standard Time (EST).
 
+### Paired Assignments *(Updated May, 6th)*
+Students can work in pairs for the homeworks and final project
+and only one student needs to submit the assignment on gradescope.
+
+Tutorials and readings must be submitted independently on gradescope. We encourage students to discuss the tutorials and readings together but they must be submitted and completed independently. The tutorials are designed to help students gain familarity with the tools and methods covered in the course.
+
 ### Support
 You are not alone in this course; the course staff
 are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. Please use Slack to ask questions. It is very likely that many of you will have the same questions so please post questions publicly on Slack by default. This will allow your peers to answer your questions as well. We will also hold virtual office hours for real-time discussions. 

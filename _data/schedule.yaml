@@ -57,8 +57,8 @@
       completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo03_solution.ipynb&branch=master
       readings:
         -
-          title: "Chapter 3 Regular Expressions"
-          authors: Hovy (Textbook) 
+          title: <strike>"Chapter 3 Regular Expressions"</strike>
+          authors: <strike>Hovy (Textbook)</strike> 
         -
           title: Chapter 2 - Numpy and BabyPandas
           authors: Dive into Data Science
@@ -200,13 +200,18 @@
       type: info
     -
       date: 2021-05-17
-      title: No Lecture or Guest Lecture
-      type: no_lecture
+      title: Reguar Expressions (Gauri) 
+      readings:
+        -
+          title: "Chapter 3 Regular Expressions"
+          authors: Hovy (Textbook) 
+      _type: no_lecture
       old_assignments:
     -
       date: 2021-05-18 
-      title: No Lecture or Guest Lecture
-      type: no_lecture
+      title: Open Hours (Gauri) 
+      old_title: No Lecture or Guest Lecture
+      _type: no_lecture
       old_title: "Lecture 10 <br> Token Level Classification: Named Entity Recognition"
       old_readings:
         -

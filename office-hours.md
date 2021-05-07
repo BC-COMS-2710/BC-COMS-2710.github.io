@@ -88,8 +88,9 @@ Monday <br> Thursday </td>
 </tr>
 <tr align="center">
 <td>Gauri Narayan</td>
-<td align="center"></td>
-<td> </td>
+<td align="center">
+Monday <br> Tuesday <br> Friday </td>
+<td align="center">4:30pm - 5:30pm <br> 1pm - 2pm <br> 1pm - 2pm </td>
 </tr>
 </tbody>
 </table>

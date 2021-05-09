@@ -29,13 +29,13 @@ and [Slack](https://bc-coms-2710-summera.slack.com/).
     {{ week.name }}
   </h3>
 
-  {% if week.readings %}
   <h4>
   	 Weekly Readings - Due {{week.readings_deadline | date: '%a, %b %-d, %Y'}} 
 	 {% if week.readings_overleaf %} <a href="{{ week.readings_overleaf }}"> - Overleaf Template</a>
 	 {% endif %}
   </h4>
   
+  {% if week.readings %}
   <ul 
   	class="{{ week.name }}-readings">
   	

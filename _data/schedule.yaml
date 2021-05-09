@@ -85,8 +85,9 @@
       type: info
 -
   name: "Week 2 (05/10) - Words, Words, Words: the base unit of analysis"
-  readings_deadline: 2021-05-14
-  readings:
+  readings_deadline: 2021-05-16
+  readings_overleaf: https://www.overleaf.com/read/rdgnkzfkkgqs
+  old_readings: 
     -
       title: "WordNet: A Lexical Database for English"
       url: https://dl.acm.org/doi/pdf/10.1145/219717.219748?casa_token=uT2izFnbEIoAAAAA:f2bKFcRo6lMu7ne5u9_NhJxneIM2H32Y-FcWCfCrF7Uu-SAPtVBhYtCGM0GbvAumo_TIRUh1A5II

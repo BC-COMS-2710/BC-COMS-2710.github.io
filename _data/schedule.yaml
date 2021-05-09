@@ -27,7 +27,7 @@
         -
           deadline: 2021-05-04
           title: Tutorial 1.1 - Python Bootcamp
-          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Fweek1%2F1.1%2Ftutorials_1.ipynb&branch=master
+          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Fweek1%2F1.1%2Ftutorial1_1.ipynb&branch=master
       readings:
         - 
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html#command-line-cheatsheet
@@ -122,23 +122,12 @@
           authors: Cultural Analytics Textbook 
       assignments:
         -
-          title: Tutorial 2.1 -  nltk, Spacy, and TextBlobl
+          title: Tutorial 2.1 -  Text Processing
           deadline: 2021-05-11
     -
       date: 2021-05-11
-      title: Lecture 6 <br> Probability
+      title: Lecture 6 <br> Document Representation
       readings:
-        -
-          title: Appendix B - Probabilities
-          authors: Hovy (Textbook)
-      assignments:
-    -
-      date: 2021-05-12
-      title: Lecture 7 <br> Representation
-      readings:
-        -
-          title: "Chapter 4: Pointwise Mutual Information"
-          authors: Hovy (Textbook)
         -
           title: "Chapter 5.1: Enter the Matrix; Chapter 5.2: Discrete Representations"
           authors: Hovy (Textbook)
@@ -146,12 +135,30 @@
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF.html
           title: TF-IDF
           authors: Cultural Analytics Textbook
+      old_readings:
+        -
+          title: Appendix B - Probabilities
+          authors: Hovy (Textbook)
       assignments:
+    -
+      date: 2021-05-12
+      title: Lecture 7 <br> Dictionary-based Methods
+      readings:
+        -
+          title: "Chapter 4: Pointwise Mutual Information"
+          authors: Hovy (Textbook)
+        -
+          title: "Chapter 5.2.4: Dictionary-based methods"
+          authors: Hovy (Textbook)
+      assignments:
+        -
+          title: Tutorial 2.2 -  Dictionary-based methods
+          deadline: 2021-05-13
     -
       date: 2021-05-13
       old_title: Lecture 8 <br> Operationalizing and Stylometry
       old_title: Lecture 8 <br> Topic Modeling
-      title: Lecture 8 <br> Language Modeling, n-grams, & Phrases
+      title: Lecture 8 <br> Language Modeling, n-grams, & Word Representations
       readings:
       assignments:
       old_readings:

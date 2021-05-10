@@ -114,6 +114,7 @@
       title: Lecture 5 <br> What is a word?  
       slides: slides/05-words.pdf
       notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo05.ipynb&branch=master
+      completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo05_solutions.ipynb&branch=master
       readings:
         -
           title: "Chapter 2: What’s in a Word?"

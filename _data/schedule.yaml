@@ -133,6 +133,7 @@
       title: Lecture 6 <br> Document Representation
       slides: slides/06-documents.pdf
       notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo06.ipynb&branch=master
+      completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo06_solutions.ipynb&branch=master
       readings:
         -
           title: "Chapter 5.1: Enter the Matrix; Chapter 5.2: Discrete Representations"

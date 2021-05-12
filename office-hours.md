@@ -83,8 +83,8 @@ as the course meetings and labs
 <tr align="center">
 <td>Adam Poliak</td>
 <td align="center">
-Monday <br> Thursday </td>
-<td align="center">1pm - 3:30pm <br> 5pm - 6pm </td>
+Monday <br> Wednesday <br> Thursday </td>
+<td align="center">1pm - 3:30pm <br> 5pm - 6pm <br> 5pm - 6pm </td>
 </tr>
 <tr align="center">
 <td>Gauri Narayan</td>

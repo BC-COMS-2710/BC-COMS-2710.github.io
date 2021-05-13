@@ -151,7 +151,8 @@
       date: 2021-05-12
       title: Lecture 7 <br> <strike>Dictionary-based Methods</strike> <br> TF-IDF
       slides: slides/07-tf_idf.pdf
-      notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo01.ipynb&branch=master
+      notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo07.ipynb&branch=master
+      completed_notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo07_solutions.ipynb&branch=master
       readings:
         -
           title: "Chapter 4: Pointwise Mutual Information"
@@ -167,6 +168,8 @@
       date: 2021-05-13
       old_title: Lecture 8 <br> Operationalizing and Stylometry
       old_title: Lecture 8 <br> Topic Modeling
+      notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo08.ipynb&branch=master
+      slides: slides/08-dictionaries.pdf
       title: Lecture 8 <br> Language Modeling, n-grams, & Word Representations
       readings:
       assignments:

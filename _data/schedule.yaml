@@ -194,7 +194,7 @@
           title: "Chapter 8: Language Models"
           authors: Hovy (Textbook)
 -
-  name: "Week 3 (05/17) - Topic Modeling"
+  name: "Week 3 (05/23) - Topic Modeling"
   readings_overleaf: https://www.overleaf.com/read/qpkrjfzttndr
   readings_deadline: 2021-05-24
   readings:
@@ -259,9 +259,6 @@
           title: Part of Speech Tagging
           authors: Online Textbook
       assignments:
-        -
-          deadline: 2021-05-19
-          title: HW10
     -
       date: 2021-05-20
       title: "Lecture 10 <br> Evaluating Topic Models"
@@ -277,9 +274,6 @@
           title: "Chapter 4: Naive Bayes and Sentiment Classification"
           authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
       assignments:
-        -
-          deadline: 2021-05-20
-          title: HW11
 -
   name: "Week 4 (05/24) - Data Collection"
   lectures:
@@ -296,9 +290,6 @@
           title: "No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service"
           authors: Casey Fiesler, Nathan Beard, Brian C. Keegan
       assignments:
-        -
-          deadline: 2021-05-124
-          title: "HW12: CULPA"
 
     -
       date: 2021-05-25
@@ -313,9 +304,6 @@
           title: "The #TwitterEthics Manifesto"
           authors: Dorothy Kim and Eunsong Kim
       assignments:
-        -
-          deadline: 2021-05-25
-          title: "HW13: Presidential Tweets"
     -
       date: 2021-05-26
       title: "Lecture 15 <br> APIs: Reddit" 
@@ -329,9 +317,6 @@
           title: The Pushshift Reddit Dataset
           authors: Baumgartner, Jason, Savvas Zannettou, Brian Keegan, Megan Squire, and Jeremy Blackburn. 2020
       assignments:
-        -
-          deadline: 2021-05-26
-          title: "HW14: Subreddits"
     -
       date: 2021-05-27
       title: Lecture 16 <br> Hypothesis Testing

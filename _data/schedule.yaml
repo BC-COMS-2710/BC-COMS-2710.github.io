@@ -161,18 +161,19 @@
           title: "Chapter 5.2.4: Dictionary-based methods"
           authors: Hovy (Textbook)
       assignments:
-        -
-          title: Tutorial 2.2 -  Dictionary-based methods
-          deadline: 2021-05-13
     -
       date: 2021-05-13
       old_title: Lecture 8 <br> Operationalizing and Stylometry
       old_title: Lecture 8 <br> Topic Modeling
       notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo08.ipynb&branch=master
       slides: slides/08-dictionaries.pdf
-      title: Lecture 8 <br> Language Modeling, n-grams, & Word Representations
+      title: Lecture 8 <br> <strike>Language Modeling, n-grams, & Word Representations</strike> <br> Dictionary-based Methods
       readings:
       assignments:
+        -
+          title: Tutorial 2.2 -  Dictionary-based methods
+          deadline: 2021-05-20
+          url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Ftutorial%2Fweek2%2F2.2%2Ftutorial2_2.ipynb&branch=master
       old_readings:
         -
           url: readings/LiteraryLabPamphlet6.pdf

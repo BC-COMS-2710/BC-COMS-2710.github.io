@@ -221,16 +221,7 @@
       title: Deadline to Drop Summer A Course
       type: info
     -
-      date: 2021-05-17
-      title: Lecture 9 <br> Reguar Expressions (Gauri) 
-      readings:
-        -
-          title: "Chapter 3 Regular Expressions"
-          authors: Hovy (Textbook) 
-      _type: no_lecture
-      old_assignments:
-    -
-      date: 2021-05-18 
+      date: 2021-05-17 
       title: Open Hours (Gauri) 
       old_title: No Lecture or Guest Lecture
       _type: no_lecture
@@ -243,6 +234,18 @@
 
       old_assignments:
     -
+      date: 2021-05-18
+      title: Lecture 9 <br> Reguar Expressions (Gauri) 
+      slides: slides/Regular_Expressions.pdf
+      readings:
+        -
+          title: "Chapter 3 Regular Expressions"
+          authors: Hovy (Textbook) 
+      _type: no_lecture
+      old_assignments:
+    -
+    
+    
       date: 2021-05-19
       title: "Lecture 10 <br> Latent Dirichlet Allocation"
       slides: slides/10-topic_models.pdf

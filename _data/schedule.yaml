@@ -198,6 +198,9 @@
   name: "Week 3 (05/23) - Topic Modeling"
   readings_overleaf: https://www.overleaf.com/read/cwbkmvfkvtxv
   readings_deadline: 2021-05-24
+  homework_title: "HW02 - Analyzing Obituaries with TF-IDF"
+  homework_deadline: 2021-05-26
+  homework_url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fhomeworks%2FHW02%2FHW02.ipynb&branch=master
   readings:
     - 
       url: https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf

@@ -187,7 +187,6 @@
           title: "Chapter 9: Topic Models"
           authors: Hovy (Textbook)
         -
-          url: http://coms2710.barnard.edu/textbook/Text-Analysis/Topic-Modeling.html
           title: Topic Modeling
           authors: Online Textbook
       readings:
@@ -293,7 +292,7 @@
       title: Lecture 13 <br> Web Scraping
       readings:
         -
-          url: http://coms2710.barnard.edu/textbook/Data-Collection/Web-Scraping-Part1.html
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html
           title: Web Scraping 101
           authors: Online Textbook
         - 
@@ -307,7 +306,7 @@
       title: "Lecture 14 <br> APIs: Twitter"
       readings:
         -
-          url: http://coms2710.barnard.edu/textbook/Data-Collection/Twitter-Data-Collection-Home.html
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Collection-Home.html
           title: Collecting Twitter Data
           authors: Online Textbook
         -
@@ -320,7 +319,7 @@
       title: "Lecture 15 <br> APIs: Reddit" 
       readings:
         -
-          url: http://coms2710.barnard.edu/textbook/Data-Collection/Reddit-Data-Collection-With-PSAW.html
+          url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Reddit-Data-Collection-With-PSAW.html
           title: Collecting Reddit Data
           authors: Online Textbook
         -

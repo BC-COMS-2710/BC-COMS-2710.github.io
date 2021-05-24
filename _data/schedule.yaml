@@ -289,7 +289,7 @@
   lectures:
     -
       date: 2021-05-24
-      title: Lecture 13 <br> Web Scraping
+      title: Lecture 12 <br> Web Scraping
       readings:
         -
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html
@@ -303,7 +303,7 @@
 
     -
       date: 2021-05-25
-      title: "Lecture 14 <br> APIs: Twitter"
+      title: "Lecture 13 <br> APIs: Twitter"
       readings:
         -
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Collection-Home.html
@@ -316,7 +316,7 @@
       assignments:
     -
       date: 2021-05-26
-      title: "Lecture 15 <br> APIs: Reddit" 
+      title: "Lecture 14 <br> APIs: Reddit" 
       readings:
         -
           url: https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Reddit-Data-Collection-With-PSAW.html
@@ -329,11 +329,11 @@
       assignments:
     -
       date: 2021-05-27
-      title: Lecture 16 <br> Hypothesis Testing
+      title: Lecture 15 <br> <strike>Hypothesis Testing</strike> <br> Text Classification <br> Naive Bayes
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html
-          title: Testing Testing_Hypotheses
+          title: <strike>Testing Testing_Hypotheses</strike>
           authors: Ani Adhikari and John DeNero, inferential Thinking
 -
   name: "Week 5 (05/31) - Machine Learning"

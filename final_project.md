@@ -28,7 +28,7 @@ There are four main components of your research project:
 
 ## Deliverables
 
-#### [Project ideation](https://www.overleaf.com/read/yzpgxcgsqdvp) - due May 27th
+#### [Project ideation](https://www.overleaf.com/read/yzpgxcgsqdvp) - due Friday May 28th
 This document will begin conversations between your group and the instructor about your final projects. 
 The project ideation is a 250 word proposal that will provide an overview of what you are interested in. 
 

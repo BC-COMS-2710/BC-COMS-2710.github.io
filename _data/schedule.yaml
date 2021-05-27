@@ -340,6 +340,7 @@
     -
       date: 2021-05-27
       title: Lecture 15 <br> <strike>Hypothesis Testing</strike> <br> Text Classification <br> Naive Bayes
+      slides: slides/15-text_classificaiton.pdf
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html

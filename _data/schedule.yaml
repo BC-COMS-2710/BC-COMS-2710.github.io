@@ -344,7 +344,15 @@
         -
           url: https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html
           title: <strike>Testing Testing_Hypotheses</strike>
-          authors: Ani Adhikari and John DeNero, inferential Thinking
+          authors: <strike>Ani Adhikari and John DeNero, inferential Thinking</strike>
+        -
+          url: https://lena-voita.github.io/nlp_course/text_classification.html
+          title: Text Classification
+          authors: Lena Voita, NLP Course<strike>Ani Adhikari and John DeNero, inferential Thinking</strike>
+        -
+          url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+          title: "Chapter 4: Naive Bayes and Sentiment Classification"
+          authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
 -
   name: "Week 5 (05/31) - Machine Learning"
   lectures:

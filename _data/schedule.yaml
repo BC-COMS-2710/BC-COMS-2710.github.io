@@ -380,11 +380,19 @@
           url: https://www.pnas.org/content/115/16/E3635
     -
       date: 2021-06-02
-      title: Lecture 18 <br> Matrix Factorization
+      title: Lecture 18 <br> <strike>Matrix Factorization</strike> <br> Logistic Regressiong
       readings:
         -
-          title: "Chapter 6: Matrix Factorization"
-          authors: Hovy (Textbook)
+          title: <strike>Chapter 6 Matrix Factorization</strike>
+          authors: <strike>Hovy (Textbook)</strike>
+        -
+          url: https://lena-voita.github.io/nlp_course/text_classification.html
+          title: Text Classification
+          authors: Lena Voita, NLP Course
+        -
+          url: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+          title: "Chapter 5: Logistic Regression"
+          authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
 
     -
       date: 2021-06-03

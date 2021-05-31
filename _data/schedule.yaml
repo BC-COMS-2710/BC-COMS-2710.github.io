@@ -356,6 +356,8 @@
           authors: Jurafsky and Martin, Speech and Language Processing (3rd ed. draft)
 -
   name: "Week 5 (05/31) - Machine Learning"
+  readings_deadline: 2021-06-06
+  readings_overleaf: https://www.overleaf.com/read/wcrggyfcjvwj
   homework_title: "HW03 - CULPA Reviews"
   homework_deadline: 2021-06-03
   homework_url: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fhomeworks%2FHW03%2FHW03.ipynb&branch=master

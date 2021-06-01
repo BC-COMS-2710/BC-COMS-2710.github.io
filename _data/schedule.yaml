@@ -368,7 +368,7 @@
       type: 'deadline'
     -
       date: 2021-06-01
-      title: "Lecture 17 <br> Guest Lecture: <a href='https://maria-antoniak.github.io/'>Maria Antoniak</a>"
+      title: "Lecture 16 <br> Guest Lecture: <a href='https://maria-antoniak.github.io/'>Maria Antoniak</a>"
       oldtitle: Lecture 17 <br> Word Embeddings <br> Project Expectations
       oldreadings:
         -
@@ -380,7 +380,7 @@
           url: https://www.pnas.org/content/115/16/E3635
     -
       date: 2021-06-02
-      title: Lecture 18 <br> <strike>Matrix Factorization</strike> <br> Logistic Regressiong
+      title: Lecture 17 <br> <strike>Matrix Factorization</strike> <br> Logistic Regressiong
       readings:
         -
           title: <strike>Chapter 6 Matrix Factorization</strike>
@@ -396,10 +396,10 @@
 
     -
       date: 2021-06-03
-      title: Lecture 19 <br> Clustering
+      title: Lecture 18 <br> Clustering
       readings: 
         -
-          title: "Chpater 7: Clustering"
+          title: "Chapter 7: Clustering"
           authors: Hovy (Textbook)
       assignments:
         -
@@ -414,21 +414,25 @@
       type: info
     -
       date: 2021-06-07
-      title: Lecture 20 <br> Language Modeling and n-grams
+      title: Lecture 19 <br> Matrix Factorization 
       readings:
         -
-          title: "Chapter 8: Language Models"
+          title: Chapter 6 Matrix Factorization
           authors: Hovy (Textbook)
 
     -
       date: 2021-06-08
-      title: Lecture 21 <br> Project Discussions
+      title: Lecture 20 <br> Word Embeddings
+      readings: 
+        -
+          title: Chapter 5.3 Distributed Representations
+          authors: Hovy (Textbook)
     -
       date: 2021-06-09
-      title: "Lecture 22 <br> Guest Lecture: <a href='https://lucy3.github.io/'>Lucy Li, Berkeley</a> <br> Project Discussions"
+      title: "Lecture 21 <br> Guest Lecture: <a href='https://lucy3.github.io/'>Lucy Li, Berkeley</a> <br> Project Discussions"
     -
       date: 2021-06-10
-      title: Lecture 23 <br> Project Discussions
+      title: Lecture 22 <br> Project Discussions
 -
   name: "Week 7 (06/14) - Projects"
   lectures:

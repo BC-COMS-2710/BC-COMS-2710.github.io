@@ -423,7 +423,9 @@
       type: info
     -
       date: 2021-06-07
-      title: Lecture 19 <br> Matrix Factorization 
+      title: Lecture 19 <br> Matrix Factorization
+      slides: slides/19-matrix_factorization.pdf
+      notebook: https://coms2710.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-2710%2Fsummer21-material&urlpath=lab%2Ftree%2Fsummer21-material%2Fdemo%2FDemo19.ipynb&branch=master
       readings:
         -
           title: Chapter 6 Matrix Factorization

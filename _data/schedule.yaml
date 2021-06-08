@@ -439,12 +439,16 @@
         -
           title: Chapter 5.3 Distributed Representations
           authors: Hovy (Textbook)
+        -
+          title: The Illustrated Word2Vec (blog)
+          authors: Jay Alammar
+          url: https://jalammar.github.io/illustrated-word2vec/
     -
       date: 2021-06-09
       title: "Lecture 21 <br> Guest Lecture: <a href='https://lucy3.github.io/'>Lucy Li, Berkeley</a> <br> Project Discussions"
     -
       date: 2021-06-10
-      title: Lecture 22 <br> Project Discussions
+      title: Lecture 22 <br> N-grams & Phrases <br> Project Discussions
 -
   name: "Week 7 (06/14) - Projects"
   lectures:

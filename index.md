@@ -157,6 +157,7 @@ Here I will try to keep a running list of related courses.
   - [TEXT MINING FOR HISTORY & LITERATURE](https://mimno.infosci.cornell.edu/info3350/) by [David Mimno](https://mimno.infosci.cornell.edu/) (Information Science) at Cornell.
   - [WORKING WITH TEXT IN PYTHON](https://applied-language-technology.readthedocs.io/en/latest/index.html) by [Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/) (Department of Languages) at University of Helsinki.
   - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) by [Melanie Walsh](https://melaniewalsh.org/) (Information Science) at Cornell.
+  - [Introduction to Computational Literary Analysis](https://icla2020b.jonreeve.com/) by [Jonathan Reeve](https://jonreeve.com/) at Columbia.
 - Classes that focus on Social Media:  
 	- [Social Media & Text Analytics](http://socialmedia-class.org/) by Alan Ritter (Computer Science) at Georgia In
 stitute of Technology

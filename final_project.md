@@ -59,7 +59,12 @@ Please follow the instructions in this [overleaf](https://www.overleaf.com/read/
 
 #### Mid-project Presentation (6 points) - due June 14th
 
-Powerpoint presentation for the class
+On Monday June 14th we will have 5-minute presentations where each group will provide an overview of their project. 
+The mid-project presentation is an opportunity for you to share your projects with the rest of the class. You will get a chance to see all the neat work your peers are doing and also provide feedback to each other.
+
+Please use this [powerpoint template](slides/project-presentations.pptx) and email it to Adam by 9:45am Monday June 14th.
+
+If you have not chosen a time slot for your presentation, please do so ASAP. You can find the Google Spreadsheet on the course slack. To make the transitions beetween time slots go smoothly, I will create one powerpoint that has all of your presentations and I will share my screen and control the slides during your presentations.
 
 #### Final Project notebook (15 points) - due June 18th
 - Paper

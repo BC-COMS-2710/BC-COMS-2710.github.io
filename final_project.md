@@ -66,6 +66,12 @@ Please use this [powerpoint template](slides/project-presentations.pptx) and ema
 
 If you have not chosen a time slot for your presentation, please do so ASAP. You can find the Google Spreadsheet on the course slack. To make the transitions beetween time slots go smoothly, I will create one powerpoint that has all of your presentations and I will share my screen and control the slides during your presentations.
 
-#### Final Project notebook (15 points) - due June 18th
-- Paper
-- Notebook
+#### Final Project Report/Code/Notebook (15 points) - due June 18th
+
+The final deliverables are due by end of day on June 18th. You will submit the following:
+
+- 3-5 page research report
+- code
+- corpus
+
+The outline with detailed instructions for the research report can be found on [Overleaf](https://www.overleaf.com/read/ktmxfvvncbqr). The research report will be submitted on Gradescope. You are expected to create a Google Drive folder (using your CU/BC Google account) where you will upload a) the cleaned and filtered corpus b) all code used for the project. Make sure to share the Google Drive folder with your instructor and include a link in your write up.

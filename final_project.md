@@ -74,4 +74,4 @@ The final deliverables are due by end of day on June 18th. You will submit the f
 - code
 - corpus
 
-The outline with detailed instructions for the research report can be found on [Overleaf](https://www.overleaf.com/read/ktmxfvvncbqr). The research report will be submitted on Gradescope. You are expected to create a Google Drive folder (using your CU/BC Google account) where you will upload a) the cleaned and filtered corpus b) all code used for the project. Make sure to share the Google Drive folder with your instructor and include a link in your write up.
+The outline with detailed instructions for the research report can be found on [Overleaf](https://www.overleaf.com/read/ktmxfvvncbqr). The research report will be submitted on Gradescope. Please create a Google Drive folder (using your CU/BC Google account) where you will upload a) the cleaned and filtered corpus b) all code used for the project. Make sure to share the Google Drive folder with your instructor and include a link in your write up.
